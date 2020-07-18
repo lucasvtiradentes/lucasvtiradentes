@@ -4,10 +4,10 @@
 
 ### What I'm working on 👨‍💻
 
-🧛‍♂️ Currently building a electron gui chatbot <br>
+🧛‍♂️ Currently building a chatbot <br>
 
 ### Find me elsewhere 🌎
 
 🐦 [Twitter](https://twitter.com/lucasvtiradente) <br>
-📸 [Instagram](https://instagram.com/lucasvtiradentes) <br>
+📸 [Instagram](https://instagram.com/lucasvtiradentess) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/lucasvtiradentes) <br>
