@@ -4,7 +4,7 @@
 
 ### What I'm working on 👨‍💻
 
-🧛‍♂️ Currently building a chatbot <br>
+🧛‍♂️ I write development related things at https://medium.com/@lucasvtiradentes/
 
 ### Find me elsewhere 🌎
 
