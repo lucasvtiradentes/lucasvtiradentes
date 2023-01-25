@@ -1,0 +1,42 @@
+[
+  {
+    "name": "medium",
+    "image": "https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white",
+    "default_link": "https://medium.com/@lucasvtiradentes"
+  },
+  {
+    "name": "dev",
+    "image": "https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white",
+    "default_link": "https://dev.to/lucasvtiradentes"
+  },
+  {
+    "name": "youtube",
+    "image": "https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white",
+    "default_link": "https://www.youtube.com/@lucasvtiradentes"
+  },
+  {
+    "name": "windows",
+    "image": "https://img.shields.io/badge/windows-0000ff?logo=windows&logoColor=white",
+    "default_link": "ttps://www.microsoft.com/pt-br/software-download/windows11"
+  },
+  {
+    "name": "windows_terminal",
+    "image": "https://img.shields.io/badge/windows%20terminal-4D4D4D?logo=windows-terminal&logoColor=white",
+    "default_link": "https://github.com/microsoft/terminal"
+  },
+  {
+    "name": "vscode",
+    "image": "https://img.shields.io/badge/vscode-blue?logo=visualstudiocode&logoColor=white",
+    "default_link": "https://code.visualstudio.com/"
+  },
+  {
+    "name": "heroku",
+    "image": "https://img.shields.io/badge/heroku-purple?logo=heroku&logoColor=white",
+    "default_link": "https://www.heroku.com/"
+  },
+  {
+    "name": "bash",
+    "image": "https://img.shields.io/badge/bash-gray?logo=gnu-bash&logoColor=white",
+    "default_link": "https://www.gnu.org/software/bash/"
+  }
+]
