@@ -139,6 +139,6 @@ a scrapper application to get valuable data from our competitors to add in our s
 
 <div align="center">
   <p>Made with ❤️ by Lucas Vieira.</p>
-  <p>👉 See also all <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/ARTICLES.md#TOC">my articles</a></p>
+  <p>👉 See also all <a href="https://github.com/lucasvtiradentes/my-tutorials#readme">my articles</a></p>
   <p>👉 See also all <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">my projects</a></p>
 </div>

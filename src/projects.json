@@ -1,0 +1,233 @@
+[
+  {
+    "name": "supermarket-chatbot",
+    "repository": "lucasvtiradentes/supermarket-chatbot",
+    "category": "work",
+    "description": "🛒 an auto-updatable electron whatsapp chatbot made for sending supermarket customers warning and informative messages whenever needed.",
+    "image": {
+      "path": "../.github/images/work/1_supermarket-chatbot.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "electron", "mongodb", "aws"]
+  },
+  {
+    "name": "biacaminha.com.br",
+    "repository": "lucasvtiradentes/biacaminha.com.br",
+    "category": "work",
+    "description": "👔 a brazillian state senator website, with an api and a admin page to manage its contents.",
+    "image": {
+      "path": "../.github/images/work/2_biacaminha.png",
+      "width": "215"
+    },
+    "tech": ["nodejs", "ejs", "express"]
+  },
+  {
+    "name": "maritimusengenharia.com",
+    "repository": "lucasvtiradentes/maritimusengenharia.com",
+    "category": "work",
+    "description": "🚢 a naval architecture company's website with an API to run user validation related actions.",
+    "image": {
+      "path": "../.github/images/work/3_maritimusengenharia.png",
+      "width": "215"
+    },
+    "tech": ["nodejs", "express"]
+  },
+  {
+    "name": "dropspy",
+    "repository": "",
+    "category": "work",
+    "description": "🕵️ a complete cloud solution for tracking shopify stores sales, persisting data in a database and inspect it in a react dashboard. This is a private repository.",
+    "image": {
+      "path": "../.github/images/work/dropspy.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "express", "docker", "mongodb", "react"]
+  },
+  {
+    "name": "boilermanager",
+    "repository": "lucasvtiradentes/boilermanager",
+    "category": "open_source",
+    "description": "⚡ A tool to allow you to choose boilerplate as well as manage yours, and quick start your projects.",
+    "image": {
+      "path": "../.github/images/open_source/boilermanager.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript"]
+  },
+  {
+    "name": "ts-boilerplates",
+    "repository": "lucasvtiradentes/ts-boilerplates",
+    "category": "open_source",
+    "description": "📁 default nodejs/typescript boilerplates available in boilermanager.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "typescript"]
+  },
+  {
+    "name": "dyn-markdown",
+    "repository": "lucasvtiradentes/dyn-markdown",
+    "category": "open_source",
+    "description": "📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.",
+    "image": {
+      "path": "../.github/images/open_source/dyn-markdown.png",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript"]
+  },
+  {
+    "name": "shopify-store-omni-pixel",
+    "repository": "lucasvtiradentes/shopify-store-omni-pixel",
+    "category": "open_source",
+    "description": "🔎 Save webstores user behavior information into cookies and send events to ads and analytics platforms, like GA, Facebook and Tiktok.",
+    "image": {
+      "path": "../.github/images/open_source/shopify-store-omni-pixel.png",
+      "width": "215"
+    },
+    "tech": ["nodejs", "javascript"]
+  },
+  {
+    "name": "gcal-sync",
+    "repository": "lucasvtiradentes/gcal-sync",
+    "category": "open_source",
+    "description": "🔄 add an one way synchronization from ticktick/github to google calendar with some customizations.",
+    "image": {
+      "path": "../.github/images/open_source/gcalsync.webp",
+      "width": "150"
+    },
+    "tech": ["nodejs", "typescript", "apps_script"]
+  },
+  {
+    "name": "ecommerce-stores-api",
+    "repository": "lucasvtiradentes/ecommerce-stores-api",
+    "category": "open_source",
+    "description": "🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.",
+    "image": {
+      "path": "../.github/images/open_source/ecommerce-stores-api.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "express", "mongodb"]
+  },
+  {
+    "name": "ticktick-api-lvt",
+    "repository": "lucasvtiradentes/ticktick-api-lvt",
+    "category": "open_source",
+    "description": "📅 A ticktick api wrapper package to be used in node based projects.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "typescript"]
+  },
+  {
+    "name": "notifications-microservice",
+    "repository": "lucasvtiradentes/notifications-microservice",
+    "category": "practice_project_advanced",
+    "description": "💬 A notifications microservice to implements nesjts, kafka, prisma and some other tools.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "typescript", "nestjs", "prisma", "kafka"]
+  },
+  {
+    "name": "waiter-app-server",
+    "repository": "lucasvtiradentes/waiter-app-server",
+    "category": "practice_project_advanced",
+    "description": "🍔 waiter server to manage orders in restaurants.",
+    "image": {
+      "path": "../.github/images/practices/waiter_server.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "express", "react", "mongodb"]
+  },
+  {
+    "name": "waiter-app-mobile",
+    "repository": "lucasvtiradentes/waiter-app-mobile",
+    "category": "practice_project_advanced",
+    "description": "🍔 waiter mobile app to manage orders.",
+    "image": {
+      "path": "../.github/images/practices/waiter_app.jpg",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react_native", "expo"]
+  },
+  {
+    "name": "todo-app",
+    "repository": "lucasvtiradentes/todo-app",
+    "category": "practice_project_basic",
+    "description": "📝 basic todo application to practice next 13 new app folder structure features.",
+    "image": {
+      "path": "../.github/images/practices/todo.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react", "next", "tailwind"]
+  },
+  {
+    "name": "metaversus-landinpage",
+    "repository": "lucasvtiradentes/metaversus-landinpage",
+    "category": "practice_project_basic",
+    "description": "👨‍🚀 space landing page to practice my nextjs and tailwind skills.",
+    "image": {
+      "path": "../.github/images/practices/metaversus.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react", "next", "tailwind"]
+  },
+  {
+    "name": "covid19-cases-dashboard",
+    "repository": "lucasvtiradentes/covid19-cases-dashboard",
+    "category": "practice_project_basic",
+    "description": "💉 covid19 cases dashboard that allows users to check covide19 statistics globally and by country.",
+    "image": {
+      "path": "../.github/images/practices/covid19.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react"]
+  },
+  {
+    "name": "github-repo-explorer",
+    "repository": "lucasvtiradentes/github-repo-explorer",
+    "category": "practice_project_basic",
+    "description": "🖥️ github application that allow users to see github repos detailed informations.",
+    "image": {
+      "path": "../.github/images/practices/github-repos.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react"]
+  },
+  {
+    "name": "cryptor",
+    "repository": "lucasvtiradentes/cryptor",
+    "category": "other",
+    "description": "🔏 file encoder/decoder application.",
+    "image": {
+      "path": "../.github/images/other/cryptor.webp",
+      "width": "215"
+    },
+    "tech": ["c"]
+  },
+  {
+    "name": "lucasvtiradentes",
+    "repository": "lucasvtiradentes/lucasvtiradentes",
+    "category": "other",
+    "description": "🚀 github description repository.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": []
+  },
+  {
+    "name": "my-tutorials",
+    "repository": "lucasvtiradentes/my-tutorials",
+    "category": "other",
+    "description": "🧑‍💻 all relevant information about my tutorials, such as source codes, assets, links, etc.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": []
+  }
+]

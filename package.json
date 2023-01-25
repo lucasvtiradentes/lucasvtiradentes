@@ -1,11 +1,10 @@
 {
   "name": "lucasvtiradentes",
-  "description": "📖 update markdown tables and fields from json content automatically.",
+  "description": "🚀 github description repository.",
   "version": "0.0.1",
   "license": "MIT",
   "keywords": [
     "portfolio",
-    "typescript",
     "cv",
     "profile"
   ],
@@ -21,19 +20,18 @@
   "bugs": {
     "url": "https://github.com/lucasvtiradentes/lucasvtiradentes/issues"
   },
-  "main": "./src/update.ts",
   "scripts": {
     "prepare": "husky install",
+    "start": "ts-node ./src/update.ts",
     "commit": "cz",
-    "scripts:update_markdown": "ts-node ./src/update.ts",
-    "start": "npm run scripts:update_markdown"
+    "scripts:update_markdown": "ts-node ./src/update.ts"
   },
   "dependencies": {
-    "json2mdfields": "^1.0.1"
+    "dyn-markdown": "^1.1.0"
   },
   "devDependencies": {
-    "@types/node": "^18.11.18",
     "@commitlint/cli": "^17.3.0",
+    "@types/node": "^18.11.18",
     "commitizen": "^4.2.6",
     "commitizen-emoji": "^1.0.5",
     "commitlint": "^17.4.1",

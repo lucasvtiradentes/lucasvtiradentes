@@ -4,39 +4,23 @@
   <a target="_blank" href="https://www.linkedin.com/in/lucasvtiradentes/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a target="_blank" href="mailto:lucasvtiradentes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a target="_blank" href="https://discord.com/users/262326726892191744"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</div>
-
-<div align="center">
   <a target="_blank" href="https://medium.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a target="_blank" href="https://dev.to/lucasvtiradentes"><img src="https://img.shields.io/badge/Dev-373737?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
-  <!-- <a target="_blank" href="https://stackoverflow.com/users/8653282/lucasvtiradentes"><img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow"></a> -->
 </div>
 
-<div align="center">
-  <a href="https://github.com/lucasvtiradentes">
-    <img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6&style=for-the-badge" alt="lucasvtiradentes" />
-  </a>
-  <!-- <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-  </a> -->
-  <!-- <a href="https://github.com/lucasvtiradentes">
-    <img src="https://profile-counter.glitch.me/lucasvtiradentes/count.svg" alt="GITHUB-USERNAME" />
-  </a> -->
-</div>
-<br>
-
-<div align="center">
-  <p>👉 See all <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/ARTICLES.md#TOC">my articles (4)</a></p>
-  <p>👉 See all <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">my projects (18)</a></p>
-  <p>👉 See <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">my <i>curriculum vitae</i> (CV)</a></p>
-  <p>👉 See <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/WORK_EXPERIENCE.md#TOC">my work experience</a></p>
-</div>
+<p align="center">
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">my projects (20)</a> •
+  <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">my articles (4)</a> •
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">my CV</a> •
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/WORK_EXPERIENCE.md#TOC">my work experience</a>
+</p>
 
 <details>
   <summary align="center"><b>Overall coding stats</b></summary>
     <br>
     <p align="center">
-      <a href="https://wakatime.com/@lucasvtiradentes"><img src="https://wakatime.com/badge/user/65dbe8e1-dcaf-46b1-ad70-00ef9520e3f9.svg" alt="wakatime" height="25"></a>
+      <a href="https://wakatime.com/@lucasvtiradentes"><img src="https://wakatime.com/badge/user/65dbe8e1-dcaf-46b1-ad70-00ef9520e3f9.svg?style=for-the-badge" alt="wakatime" height="25"></a>
+      <a href="https://github.com/lucasvtiradentes"><img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6&style=for-the-badge" alt="lucasvtiradentes" /></a>
     </p>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvtiradentes&count_private=true&layout=compact&theme=dracula" alt="lucasvtiradentes"  height="165" />
@@ -50,7 +34,78 @@
 
 <a href="#"><img src="./.github/images/divider.png" /></a>
 
-### 💻 Tech stack
+### ⭐ best projects
+
+<div align="center">
+  <table>
+    <tr>
+      <th width="215">Project</th>
+      <th width="400">Description</th>
+      <th width="215">Demo</th>
+      <th width="100">Tech</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasvtiradentes/boilermanager">boilermanager</a><br>
+        <a href="https://www.npmjs.com/package/boilermanager"><img src="https://img.shields.io/npm/v/boilermanager.svg?style=flat" alt="npm version"></a>
+      </td>
+      <td align="left">⚡ quickstart your nodejs based projects by choosing a pre setted up boilerplate, as well as manage yours.</td>
+      <td align="center">
+        <a href="#"><img src=".github/images/open_source/boilermanager.webp" width="215"></a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+        <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      </td>
+    </tr><tr>
+      <td align="center">
+        <a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a><br>
+        <a href="https://www.npmjs.com/package/gcal-sync"><img src="https://img.shields.io/npm/v/gcal-sync.svg?style=flat" alt="npm version"></a>
+      </td>
+      <td align="left">🔄 add an one way synchronization from ticktick/github to google calendar with some customizations.</td>
+      <td align="center">
+        <a href="#"><img src=".github/images/open_source/gcalsync.webp" height="150"></a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+        <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+        <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel">shopify-store-omni-pixel</a><br>
+        <a href="https://www.npmjs.com/package/shopify-store-omni-pixel"><img src="https://img.shields.io/npm/v/shopify-store-omni-pixel.svg?style=flat" alt="npm version"></a>
+      </td>
+      <td align="left">🔎 save ecommerce store's visitors online behavior information into cookies and send events to ads and analytics platforms, like GA, Facebook and Tiktok.</td>
+      <td align="center">
+        <a href="#"><img src=".github/images/open_source/shopify-store-omni-pixel.png" width="215"></a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+        <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lucasvtiradentes/dyn-markdown">dyn-markdown</a><br>
+        <a href="https://www.npmjs.com/package/dyn-markdown"><img src="https://img.shields.io/npm/v/dyn-markdown.svg?style=flat" alt="npm version"></a>
+      </td>
+      <td align="left">📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.</td>
+      <td align="center">
+        <img src=".github/images/open_source/dyn-markdown.png" width="215">
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+        <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<a href="#"><img src="./.github/images/divider.png" /></a>
+
+### 💻 tech stack
 
 <p align="center">
   <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -97,37 +152,3 @@
     <a target="_blank" href="https://github.com/commitizen/cz-cli"><img src="https://img.shields.io/badge/commitizen-pink?logo=conventionalcommits&logoColor=white"></a>
   </p>
 </details>
-
-<a href="#"><img src="./.github/images/divider.png" /></a>
-
-### ⭐ Open source projects
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Subject</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ts-boilerplate-land/boilermanager">boilermanager</a></td>
-      <td>development</td>
-      <td align="left">⚡ A tool to allow you to choose boilerplate as well as manage yours, and quick start your projects.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt">ticktick-api-lvt</a></td>
-      <td>productivity-tools</td>
-      <td align="left">📅 A ticktick api wrapper package to be used in node based projects.</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel">shopify-store-omni-pixel</a></td>
-      <td rowspan="2">ecommerce</td>
-      <td align="left">🔎 Save webstores user behavior information into cookies <br>and send events to ads and analytics platforms, like GA, Facebook and Tiktok.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api">ecommerce-stores-api</a></td>
-      <!-- <td>ecommerce</td> -->
-      <td align="left">🛒 ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.</td>
-    </tr>
-  </table>
-</div>

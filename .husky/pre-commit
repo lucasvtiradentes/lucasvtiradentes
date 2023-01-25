@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🐶 husky script: [pre-commit]"
+npm run scripts:update_markdown
+git add .
+echo "✅ husky script: [pre-commit]"
+echo ""
+
