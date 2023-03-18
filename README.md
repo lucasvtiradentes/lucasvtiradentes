@@ -2,8 +2,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/lucasvtiradentes/"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a target="_blank" href="mailto:lucasvtiradentes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"></a>
   <a target="_blank" href="https://discord.com/users/262326726892191744"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <br>
   <a target="_blank" href="https://medium.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium"></a>
   <a target="_blank" href="https://dev.to/lucasvtiradentes"><img src="https://img.shields.io/badge/Dev-373737?logo=dev.to&logoColor=white" alt="dev.to"></a>
+  <a target="_blank" href="https://www.tabnews.com.br/lucasvtiradentes"><img src="https://img.shields.io/badge/Tabnews-gray?logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAJFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGK9LJAAAAC3RSTlMApFvED999rD5RbZLJf4gAAACsSURBVFiF7Za7DoQwDASdFwnn///f04kmYMdytMVReOrsyBCBlygI3kYd2cWoavxs7KadMl/88R8FzAvDsZtnPm6C/TzznM/XVM+3m01Bnk4moXQMlp6CLgV9S5CkYKAC8xlcAut6XYKKCsj4QHwCYwSfgOjTi6DtCDTE+RCEIAQheJlAWW0ruipQlusK8VderPcF9aoz83qHCwZeceCShdc8vGgSXHWD4J98AbqPKw5ZfbUKAAAAAElFTkSuQmCC" alt="tabnews"></a>
 </div>
 
 <p align="center">
