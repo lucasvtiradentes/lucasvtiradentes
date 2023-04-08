@@ -43,6 +43,9 @@
     },
     "tech": ["nodejs", "express", "docker", "mongodb", "react"]
   },
+
+
+
   {
     "name": "boilermanager",
     "repository": "lucasvtiradentes/boilermanager",
@@ -55,15 +58,15 @@
     "tech": ["nodejs", "typescript"]
   },
   {
-    "name": "ts-boilerplates",
-    "repository": "lucasvtiradentes/ts-boilerplates",
+    "name": "twitch-notifier",
+    "repository": "lucasvtiradentes/twitch-notifier",
     "category": "open_source",
-    "description": "📁 default nodejs/typescript boilerplates available in boilermanager.",
+    "description": "💬 a simple way to get email notifications from your favorite twitch streamers whenever they go live.",
     "image": {
-      "path": "",
-      "width": ""
+      "path": "../.github/images/open_source/twitch_notifier.webp",
+      "width": "215"
     },
-    "tech": ["nodejs", "typescript"]
+    "tech": ["javascript", "apps_script"]
   },
   {
     "name": "dyn-markdown",
@@ -121,6 +124,28 @@
     "tech": ["nodejs", "typescript"]
   },
   {
+    "name": "js-boilerplates",
+    "repository": "lucasvtiradentes/js-boilerplates",
+    "category": "open_source",
+    "description": "📁 nodejs boilerplates available in boilermanager as default options.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "typescript"]
+  },
+  {
+    "name": "go-boilerplates",
+    "repository": "lucasvtiradentes/go-boilerplates",
+    "category": "open_source",
+    "description": "📁 golang boilerplates available in boilermanager.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "golang"]
+  },
+  {
     "name": "notifications-microservice",
     "repository": "lucasvtiradentes/notifications-microservice",
     "category": "practice_project_advanced",
@@ -149,6 +174,17 @@
     "description": "🍔 waiter mobile app to manage orders.",
     "image": {
       "path": "../.github/images/practices/waiter_app.jpg",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "react_native", "expo"]
+  },
+  {
+    "name": "job-searcher ",
+    "repository": "lucasvtiradentes/job-searcher ",
+    "category": "practice_project_advanced",
+    "description": "briefcase cross-platform mobile app to help developers find jobs easier.",
+    "image": {
+      "path": "../.github/images/practices/job_searcher.webp",
       "width": "215"
     },
     "tech": ["nodejs", "typescript", "react_native", "expo"]

@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <!-- <DYNFIELD:PROJECTS_COUNT> -->
-  ALL MY GITHUB PROJECTS (20)
+  ALL MY GITHUB PROJECTS (23)
   <!-- </DYNFIELD:PROJECTS_COUNT> -->
 </h3>
 
@@ -21,12 +21,12 @@
   </a> •
   <a href="#star-open-source-projects">
   <!-- <DYNFIELD:OPEN_SOURCE_COUNT> -->
-  open source (7)
+  open source (9)
   <!-- </DYNFIELD:OPEN_SOURCE_COUNT> -->
   </a> •
   <a href="#books-practice-projects">
   <!-- <DYNFIELD:PRACTICE_COUNT> -->
-  practice (7)
+  practice (8)
   <!-- </DYNFIELD:PRACTICE_COUNT> -->
   </a> •
   <a href="#zap-other-projects">
@@ -116,12 +116,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/ts-boilerplates">ts-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/ts-boilerplates/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/ts-boilerplates?color=green&label=updated"></a></td>
-    <td>📁 default nodejs/typescript boilerplates available in boilermanager.</td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/twitch-notifier?color=green&label=updated"></a></td>
+    <td>💬 a simple way to get email notifications from your favorite twitch streamers whenever they go live.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
     <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -172,6 +172,24 @@
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/js-boilerplates">js-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/js-boilerplates/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/js-boilerplates?color=green&label=updated"></a></td>
+    <td>📁 nodejs boilerplates available in boilermanager as default options.</td>
+    <td align="center">N/A</td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/go-boilerplates">go-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/go-boilerplates/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/go-boilerplates?color=green&label=updated"></a></td>
+    <td>📁 golang boilerplates available in boilermanager.</td>
+    <td align="center">N/A</td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://go.dev/"><img src="https://img.shields.io/badge/GO-blue?logo=go&logoColor=white"></a>
+    </td>
+  </tr>
 </table></div>
 <!-- </DYNFIELD:OPEN_SOURCE_TABLE> -->
 
@@ -217,6 +235,17 @@
     <td align="center"><a href="https://github.com/lucasvtiradentes/waiter-app-mobile">waiter-app-mobile</a><br><a href="https://github.com/lucasvtiradentes/waiter-app-mobile/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/waiter-app-mobile?color=green&label=updated"></a></td>
     <td>🍔 waiter mobile app to manage orders.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/waiter_app.jpg" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a target="_blank" href="https://reactnative.dev/"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a target="_blank" href="https://expo.dev/"><img src="https://img.shields.io/badge/expo-%2320232a.svg?logo=expo&logoColor=%2361DAFB"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/job-searcher ">job-searcher </a><br><a href="https://github.com/lucasvtiradentes/job-searcher /commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/job-searcher ?color=green&label=updated"></a></td>
+    <td>briefcase cross-platform mobile app to help developers find jobs easier.</td>
+    <td align="center"><a href="#"><img src="../.github/images/practices/job_searcher.webp" width="215"></a></td>
     <td>
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -326,7 +355,7 @@
 <br>
 
 <div align="center">
-  <p>Made with ❤️ by Lucas Vieira.</p>
+  <p>Made with ❤️ by <b>Lucas Vieira</b></p>
   <p>👉 See also all <a href="https://github.com/lucasvtiradentes/my-tutorials#readme">my articles</a></p>
   <p>👉 See also <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/WORK_EXPERIENCE.md#TOC">my work experience</a></p>
 </div>

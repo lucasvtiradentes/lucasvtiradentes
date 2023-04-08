@@ -223,5 +223,10 @@
     "name": "expo",
     "image": "https://img.shields.io/badge/expo-%2320232a.svg?logo=expo&logoColor=%2361DAFB",
     "default_link": "https://expo.dev/"
+  },
+  {
+    "name": "golang",
+    "image": "https://img.shields.io/badge/GO-blue?logo=go&logoColor=white",
+    "default_link": "https://go.dev/"
   }
 ]

@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">my projects (21)</a> •
-  <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">my articles (7)</a> •
-  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">my CV</a>
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (23)</a> •
+  <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">articles (7)</a> •
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">CV</a>
 </p>
 
 <details>
@@ -38,7 +38,8 @@
           <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
           <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
         </td>
-      </tr><tr>
+      </tr>
+      <tr>
         <td align="center">
           <a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a><br>
           <a href="https://www.npmjs.com/package/gcal-sync"><img src="https://img.shields.io/npm/v/gcal-sync.svg?style=flat" alt="npm version"></a>
@@ -51,6 +52,15 @@
           <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
           <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
           <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier">twitch-notifier</a></td>
+        <td>💬 a simple way to get email notifications from your favorite twitch streamers whenever they go live.</td>
+        <td align="center"><a href="#"><img src="./.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
+        <td>
+          <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+          <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
         </td>
       </tr>
       <tr>
