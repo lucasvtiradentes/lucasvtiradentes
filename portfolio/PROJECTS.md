@@ -49,7 +49,7 @@
     <th align="center" width="100">Tech</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/supermarket-chatbot">supermarket-chatbot</a><br><a href="https://github.com/lucasvtiradentes/supermarket-chatbot/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/supermarket-chatbot?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/supermarket-chatbot#readme">supermarket-chatbot</a><br><a href="https://github.com/lucasvtiradentes/supermarket-chatbot/commits/master"></td>
     <td>🛒 an auto-updatable electron whatsapp chatbot made for sending supermarket customers warning and informative messages whenever needed.</td>
     <td align="center"><a href="#"><img src="../.github/images/work/1_supermarket-chatbot.webp" width="215"></a></td>
     <td>
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/biacaminha.com.br">biacaminha.com.br</a><br><a href="https://github.com/lucasvtiradentes/biacaminha.com.br/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/biacaminha.com.br?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/biacaminha.com.br#readme">biacaminha.com.br</a><br><a href="https://github.com/lucasvtiradentes/biacaminha.com.br/commits/master"></td>
     <td>👔 a brazillian state senator website, with an api and a admin page to manage its contents.</td>
     <td align="center"><a href="#"><img src="../.github/images/work/2_biacaminha.png" width="215"></a></td>
     <td>
@@ -69,7 +69,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/maritimusengenharia.com">maritimusengenharia.com</a><br><a href="https://github.com/lucasvtiradentes/maritimusengenharia.com/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/maritimusengenharia.com?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/maritimusengenharia.com#readme">maritimusengenharia.com</a><br><a href="https://github.com/lucasvtiradentes/maritimusengenharia.com/commits/master"></td>
     <td>🚢 a naval architecture company's website with an API to run user validation related actions.</td>
     <td align="center"><a href="#"><img src="../.github/images/work/3_maritimusengenharia.png" width="215"></a></td>
     <td>
@@ -107,8 +107,18 @@
     <th align="center" width="100">Tech</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/boilermanager">boilermanager</a><br><a href="https://github.com/lucasvtiradentes/boilermanager/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/boilermanager?color=green&label=updated"></a></td>
-    <td>⚡ A tool to allow you to choose boilerplate as well as manage yours, and quick start your projects.</td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync#readme">gcal-sync</a><br><a href="https://github.com/lucasvtiradentes/gcal-sync/commits/master"><a href="https://www.npmjs.com/package/gcal-sync"><img src="https://img.shields.io/npm/v/gcal-sync.svg?style=flat" alt="npm version"></a></td>
+    <td>🔄 add an one way synchronization from ticktick/github to google calendar and track your progress effortlessly.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/gcalsync.webp" width="100"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/boilermanager#readme">boilermanager</a><br><a href="https://github.com/lucasvtiradentes/boilermanager/commits/master"><a href="https://www.npmjs.com/package/boilermanager"><img src="https://img.shields.io/npm/v/boilermanager.svg?style=flat" alt="npm version"></a></td>
+    <td>⚡ a boilerplate manager to let you start your projects lightning fast.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/boilermanager.webp" width="215"></a></td>
     <td>
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
@@ -116,8 +126,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/twitch-notifier?color=green&label=updated"></a></td>
-    <td>💬 a simple way to get email notifications from your favorite twitch streamers whenever they go live.</td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel#readme">shopify-store-omni-pixel</a><br><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel/commits/master"><a href="https://www.npmjs.com/package/shopify-store-omni-pixel"><img src="https://img.shields.io/npm/v/shopify-store-omni-pixel.svg?style=flat" alt="npm version"></a></td>
+    <td>🔎 Save webstore' visitors behavior information into cookies and send events to ads and analytics platforms, such as GA, Facebook and Tiktok.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/shopify-store-omni-pixel.png" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier/commits/master"></td>
+    <td>💬 get email notifications from your favorite twitch streamers whenever they go live.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
     <td>
       <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
@@ -125,7 +144,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/dyn-markdown">dyn-markdown</a><br><a href="https://github.com/lucasvtiradentes/dyn-markdown/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/dyn-markdown?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/dyn-markdown#readme">dyn-markdown</a><br><a href="https://github.com/lucasvtiradentes/dyn-markdown/commits/master"><a href="https://www.npmjs.com/package/dyn-markdown"><img src="https://img.shields.io/npm/v/dyn-markdown.svg?style=flat" alt="npm version"></a></td>
     <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/dyn-markdown.png" width="215"></a></td>
     <td>
@@ -134,26 +153,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel">shopify-store-omni-pixel</a><br><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/shopify-store-omni-pixel?color=green&label=updated"></a></td>
-    <td>🔎 Save webstores user behavior information into cookies and send events to ads and analytics platforms, like GA, Facebook and Tiktok.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/shopify-store-omni-pixel.png" width="215"></a></td>
-    <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a><br><a href="https://github.com/lucasvtiradentes/gcal-sync/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/gcal-sync?color=green&label=updated"></a></td>
-    <td>🔄 add an one way synchronization from ticktick/github to google calendar with some customizations.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/gcalsync.webp" width="150"></a></td>
-    <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api">ecommerce-stores-api</a><br><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/ecommerce-stores-api?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api#readme">ecommerce-stores-api</a><br><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api/commits/master"></td>
     <td>🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/ecommerce-stores-api.webp" width="215"></a></td>
     <td>
@@ -164,7 +164,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt">ticktick-api-lvt</a><br><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/ticktick-api-lvt?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt#readme">ticktick-api-lvt</a><br><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt/commits/master"><a href="https://www.npmjs.com/package/ticktick-api-lvt"><img src="https://img.shields.io/npm/v/ticktick-api-lvt.svg?style=flat" alt="npm version"></a></td>
     <td>📅 A ticktick api wrapper package to be used in node based projects.</td>
     <td align="center">N/A</td>
     <td>
@@ -173,7 +173,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/js-boilerplates">js-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/js-boilerplates/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/js-boilerplates?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/js-boilerplates#readme">js-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/js-boilerplates/commits/master"></td>
     <td>📁 nodejs boilerplates available in boilermanager as default options.</td>
     <td align="center">N/A</td>
     <td>
@@ -182,7 +182,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/go-boilerplates">go-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/go-boilerplates/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/go-boilerplates?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/go-boilerplates#readme">go-boilerplates</a><br><a href="https://github.com/lucasvtiradentes/go-boilerplates/commits/master"></td>
     <td>📁 golang boilerplates available in boilermanager.</td>
     <td align="center">N/A</td>
     <td>
@@ -210,7 +210,7 @@
     <th align="center" width="100">Tech</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/notifications-microservice">notifications-microservice</a><br><a href="https://github.com/lucasvtiradentes/notifications-microservice/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/notifications-microservice?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/notifications-microservice#readme">notifications-microservice</a><br><a href="https://github.com/lucasvtiradentes/notifications-microservice/commits/master"></td>
     <td>💬 A notifications microservice to implements nesjts, kafka, prisma and some other tools.</td>
     <td align="center">N/A</td>
     <td>
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/waiter-app-server">waiter-app-server</a><br><a href="https://github.com/lucasvtiradentes/waiter-app-server/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/waiter-app-server?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/waiter-app-server#readme">waiter-app-server</a><br><a href="https://github.com/lucasvtiradentes/waiter-app-server/commits/master"></td>
     <td>🍔 waiter server to manage orders in restaurants.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/waiter_server.webp" width="215"></a></td>
     <td>
@@ -232,7 +232,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/waiter-app-mobile">waiter-app-mobile</a><br><a href="https://github.com/lucasvtiradentes/waiter-app-mobile/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/waiter-app-mobile?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/waiter-app-mobile#readme">waiter-app-mobile</a><br><a href="https://github.com/lucasvtiradentes/waiter-app-mobile/commits/master"></td>
     <td>🍔 waiter mobile app to manage orders.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/waiter_app.jpg" width="215"></a></td>
     <td>
@@ -243,7 +243,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/job-searcher ">job-searcher </a><br><a href="https://github.com/lucasvtiradentes/job-searcher /commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/job-searcher ?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/job-searcher #readme">job-searcher</a><br><a href="https://github.com/lucasvtiradentes/job-searcher /commits/master"></td>
     <td>briefcase cross-platform mobile app to help developers find jobs easier.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/job_searcher.webp" width="215"></a></td>
     <td>
@@ -267,7 +267,7 @@
     <th align="center" width="100">Tech</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/todo-app">todo-app</a><br><a href="https://github.com/lucasvtiradentes/todo-app/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/todo-app?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/todo-app#readme">todo-app</a><br><a href="https://github.com/lucasvtiradentes/todo-app/commits/master"></td>
     <td>📝 basic todo application to practice next 13 new app folder structure features.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/todo.webp" width="215"></a></td>
     <td>
@@ -279,7 +279,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/metaversus-landinpage">metaversus-landinpage</a><br><a href="https://github.com/lucasvtiradentes/metaversus-landinpage/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/metaversus-landinpage?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/metaversus-landinpage#readme">metaversus-landinpage</a><br><a href="https://github.com/lucasvtiradentes/metaversus-landinpage/commits/master"></td>
     <td>👨‍🚀 space landing page to practice my nextjs and tailwind skills.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/metaversus.webp" width="215"></a></td>
     <td>
@@ -291,7 +291,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/covid19-cases-dashboard">covid19-cases-dashboard</a><br><a href="https://github.com/lucasvtiradentes/covid19-cases-dashboard/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/covid19-cases-dashboard?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/covid19-cases-dashboard#readme">covid19-cases-dashboard</a><br><a href="https://github.com/lucasvtiradentes/covid19-cases-dashboard/commits/master"></td>
     <td>💉 covid19 cases dashboard that allows users to check covide19 statistics globally and by country.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/covid19.webp" width="215"></a></td>
     <td>
@@ -301,7 +301,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/github-repo-explorer">github-repo-explorer</a><br><a href="https://github.com/lucasvtiradentes/github-repo-explorer/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/github-repo-explorer?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/github-repo-explorer#readme">github-repo-explorer</a><br><a href="https://github.com/lucasvtiradentes/github-repo-explorer/commits/master"></td>
     <td>🖥️ github application that allow users to see github repos detailed informations.</td>
     <td align="center"><a href="#"><img src="../.github/images/practices/github-repos.webp" width="215"></a></td>
     <td>
@@ -328,7 +328,7 @@
     <th align="center" width="100">Tech</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/cryptor">cryptor</a><br><a href="https://github.com/lucasvtiradentes/cryptor/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/cryptor?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/cryptor#readme">cryptor</a><br><a href="https://github.com/lucasvtiradentes/cryptor/commits/master"></td>
     <td>🔏 file encoder/decoder application.</td>
     <td align="center"><a href="#"><img src="../.github/images/other/cryptor.webp" width="215"></a></td>
     <td>
@@ -336,13 +336,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/lucasvtiradentes">lucasvtiradentes</a><br><a href="https://github.com/lucasvtiradentes/lucasvtiradentes/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/lucasvtiradentes?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/lucasvtiradentes#readme">lucasvtiradentes</a><br><a href="https://github.com/lucasvtiradentes/lucasvtiradentes/commits/master"></td>
     <td>🚀 github description repository.</td>
     <td align="center">N/A</td>
     <td></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/my-tutorials">my-tutorials</a><br><a href="https://github.com/lucasvtiradentes/my-tutorials/commits/master"><img src="https://img.shields.io/github/last-commit/lucasvtiradentes/my-tutorials?color=green&label=updated"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/my-tutorials#readme">my-tutorials</a><br><a href="https://github.com/lucasvtiradentes/my-tutorials/commits/master"></td>
     <td>🧑‍💻 all relevant information about my tutorials, such as source codes, assets, links, etc.</td>
     <td align="center">N/A</td>
     <td></td>
