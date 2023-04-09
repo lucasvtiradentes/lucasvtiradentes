@@ -56,7 +56,7 @@
       </tr>
       <tr>
         <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme"><img src="https://badgen.net/github/stars/lucasvtiradentes/twitch-notifier/"></a></td>
-        <td>💬 get email notifications from your favorite twitch streamers whenever they go live.</td>
+        <td>💬 get email notifications whenever your favorite twitch streamers go live.</td>
         <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme"><img src="./.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
         <td>
           <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>

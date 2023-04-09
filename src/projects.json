@@ -94,7 +94,7 @@
     "name": "twitch-notifier",
     "repository": "lucasvtiradentes/twitch-notifier",
     "category": "open_source",
-    "description": "💬 get email notifications from your favorite twitch streamers whenever they go live.",
+    "description": "💬 get email notifications whenever your favorite twitch streamers go live.",
     "image": {
       "path": "./.github/images/open_source/twitch_notifier.webp",
       "width": "215"
