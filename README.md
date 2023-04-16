@@ -133,6 +133,31 @@
 </details>
 
 
+<details>
+  <summary align="center"><b>🐶 pets</b></summary>
+  <br>
+  <div align="center">
+    <table>
+      <tr>
+        <th>Teo</th>
+        <th>Belinha</th>
+      </tr>
+      <tr>
+        <td>The most cute and happy buddy I've ever met, he thinks everything is related to his daily walks. If you smile or touch the wrong object, you'll probably have to take him out to enjoy his dog friends.</td>
+        <td>If you need to learn about impose boundaries, you need to hang out with her. You might get hurt by just  touching in her belly or feet. Also she has already slept in 98% of all possible places in her house.</td>
+      </tr>
+      <tr width="100%">
+        <td width="50%"><img src="./.github/images/pets/teo1.jpg"></td>
+        <td width="50%"><img src="./.github/images/pets/belinha1.jpg"></td>
+      </tr>
+      <tr width="100%">
+        <td width="50%"><img src="./.github/images/pets/teo2.jpg"></td>
+        <td width="50%"><img src="./.github/images/pets/belinha2.jpg"></td>
+      </tr>
+    </table>
+  </div>
+</details>
+
 
 <p align="center">
   <a href="https://github.com/lucasvtiradentes"><img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6" alt="lucasvtiradentes" /></a>
