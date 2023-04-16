@@ -74,8 +74,9 @@ function updateReadmeMarkdown(){
   const table = fieldTable.getTable()
   const div = `<details>\n  <summary align="center"><b>⭐ featured projects (${featuredProjects.length})</b></summary>\n  <br>\n  <div align="center">\n${table.split("\n").map(line => `    ${line}`).join("\n")}\n  </div>\n</details>`
   readmeMarkdown.updateField('FEATURED_PROJECTS', div)
+  const ignoredProjectsQuantity = 1
+  readmeMarkdown.updateField('ALL_PROJECTS', `<a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (${projectsJson.length - ignoredProjectsQuantity})</a>`)
   readmeMarkdown.saveFile()
-  console.log(div);
 }
 
 function updateProjectsMarkdown(){
@@ -124,7 +125,7 @@ function updateProjectsMarkdown(){
         {content: techStr}
       ])
 
-      projectsMarkdown.updateField(tableField, projectsMarkdown.wrapContentInsideTag(fieldTable.getTable(), 'div', { align: 'center'}))
+      projectsMarkdown.updateField(tableField, `<div align="center">${fieldTable.getTable()}</div>`)
     })
   })
 

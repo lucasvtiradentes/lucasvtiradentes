@@ -2,21 +2,19 @@
   <a target="_blank" href="https://www.linkedin.com/in/lucasvtiradentes/"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a target="_blank" href="mailto:lucasvtiradentes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"></a>
   <a target="_blank" href="https://discord.com/users/262326726892191744"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <!-- <br>
-  <a target="_blank" href="https://medium.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium"></a>
-  <a target="_blank" href="https://dev.to/lucasvtiradentes"><img src="https://img.shields.io/badge/Dev-373737?logo=dev.to&logoColor=white" alt="dev.to"></a>
-  <a target="_blank" href="https://www.tabnews.com.br/lucasvtiradentes"><img src="https://img.shields.io/badge/Tabnews-gray?logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAJFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGK9LJAAAAC3RSTlMApFvED999rD5RbZLJf4gAAACsSURBVFiF7Za7DoQwDASdFwnn///f04kmYMdytMVReOrsyBCBlygI3kYd2cWoavxs7KadMl/88R8FzAvDsZtnPm6C/TzznM/XVM+3m01Bnk4moXQMlp6CLgV9S5CkYKAC8xlcAut6XYKKCsj4QHwCYwSfgOjTi6DtCDTE+RCEIAQheJlAWW0ruipQlusK8VderPcF9aoz83qHCwZeceCShdc8vGgSXHWD4J98AbqPKw5ZfbUKAAAAAElFTkSuQmCC" alt="tabnews"></a> -->
 </div>
 
 <p align="center">
-  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (23)</a> •
-  <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">articles (7)</a> •
-  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/cv/LUCAS_VIEIRA_DEVELOPER_CV_ENGLISH.pdf">CV</a>
+  <!-- <DYNFIELD:ALL_PROJECTS> -->
+  <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (25)</a>
+  <!-- </DYNFIELD:ALL_PROJECTS> -->
+   •
+  <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">articles (7)</a>
 </p>
 
 <!-- <DYNFIELD:FEATURED_PROJECTS> -->
 <details>
-  <summary align="center"><b>⭐ featured projects (5)</b></summary>
+  <summary align="center"><b>⭐ featured projects (6)</b></summary>
   <br>
   <div align="center">
     <table>
@@ -29,7 +27,7 @@
       <tr>
         <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync#readme">gcal-sync</a><br><a href="https://github.com/lucasvtiradentes/gcal-sync#readme"><img src="https://badgen.net/github/stars/lucasvtiradentes/gcal-sync/"></a></td>
         <td>🔄 add an one way synchronization from ticktick/github to google calendar and track your progress effortlessly.</td>
-        <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync#readme"><img src="./.github/images/open_source/gcalsync.webp" width="100"></a></td>
+        <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync#readme"><img src="./.github/images/open_source/gcalsync.png" width="215"></a></td>
         <td>
           <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
           <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -55,9 +53,18 @@
         </td>
       </tr>
       <tr>
+        <td align="center"><a href="https://github.com/lucasvtiradentes/esports-notifier#readme">esports-notifier</a><br><a href="https://github.com/lucasvtiradentes/esports-notifier#readme"><img src="https://badgen.net/github/stars/lucasvtiradentes/esports-notifier/"></a></td>
+        <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date.</td>
+        <td align="center"><a href="https://github.com/lucasvtiradentes/esports-notifier#readme"><img src="./.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
+        <td>
+          <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+          <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
         <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme"><img src="https://badgen.net/github/stars/lucasvtiradentes/twitch-notifier/"></a></td>
-        <td>💬 get email notifications whenever your favorite twitch streamers go live.</td>
-        <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme"><img src="./.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
+        <td>🔔 get email notifications whenever your favorite twitch streamers go live.</td>
+        <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme"><img src="./.github/images/open_source/esports-notifier.png" width="215"></a></td>
         <td>
           <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
           <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
@@ -108,6 +115,24 @@
     <a target="_blank" href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/electron-373737.svg?logo=electron&logoColor=%2361DAFB"></a>
   </p>
 </details>
+
+<details>
+  <summary align="center"><b>🥋 accounts</b></summary>
+  <br>
+  <p align="center">
+  <a target="_blank" href="https://medium.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/medium-000000?logo=medium&logoColor=white" alt="Medium"></a>
+  <a target="_blank" href="https://dev.to/lucasvtiradentes"><img src="https://img.shields.io/badge/dev-373737?logo=dev.to&logoColor=white" alt="dev.to"></a>
+  <br>
+  <a target="_blank" href="https://www.reddit.com/user/lucasvtiradentes"><img src="https://img.shields.io/badge/reddit-orange?logo=reddit&logoColor=white" alt="reddit"></a>
+  <a target="_blank" href="https://www.tabnews.com.br/lucasvtiradentes"><img src="https://img.shields.io/badge/tabnews-gray?logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAJFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGK9LJAAAAC3RSTlMApFvED999rD5RbZLJf4gAAACsSURBVFiF7Za7DoQwDASdFwnn///f04kmYMdytMVReOrsyBCBlygI3kYd2cWoavxs7KadMl/88R8FzAvDsZtnPm6C/TzznM/XVM+3m01Bnk4moXQMlp6CLgV9S5CkYKAC8xlcAut6XYKKCsj4QHwCYwSfgOjTi6DtCDTE+RCEIAQheJlAWW0ruipQlusK8VderPcF9aoz83qHCwZeceCShdc8vGgSXHWD4J98AbqPKw5ZfbUKAAAAAElFTkSuQmCC" alt="tabnews"></a>
+  <br>
+  <a target="_blank" href="https://www.youtube.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/youtube-red?logo=youtube&logoColor=white" alt="youtube"></a>
+  <a target="_blank" href="https://www.twitch.tv/lucasvtiradentes"><img src="https://img.shields.io/badge/twitch-A970FF?logo=twitch&logoColor=white" alt="twitch"></a>
+  <a target="_blank" href="https://twitter.com/lucasvtiradente"><img src="https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white" alt="twitter"></a>
+  </p>
+</details>
+
+
 
 <p align="center">
   <a href="https://github.com/lucasvtiradentes"><img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6" alt="lucasvtiradentes" /></a>

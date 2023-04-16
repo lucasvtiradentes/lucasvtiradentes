@@ -27,7 +27,7 @@
     "scripts:update_markdown": "ts-node ./src/update.ts"
   },
   "dependencies": {
-    "dyn-markdown": "^1.1.0"
+    "dyn-markdown": "^1.3.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",

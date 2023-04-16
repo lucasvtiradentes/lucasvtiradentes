@@ -39,6 +39,19 @@
     "package": false
   },
   {
+    "name": "ecommerce-stores-api",
+    "repository": "lucasvtiradentes/ecommerce-stores-api",
+    "category": "work",
+    "description": "🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.",
+    "image": {
+      "path": "./.github/images/work/ecommerce-stores-api.webp",
+      "width": "215"
+    },
+    "tech": ["nodejs", "typescript", "express", "mongodb"],
+    "featured": false,
+    "package": false
+  },
+  {
     "name": "dropspy",
     "repository": "",
     "category": "work",
@@ -57,8 +70,8 @@
     "category": "open_source",
     "description": "🔄 add an one way synchronization from ticktick/github to google calendar and track your progress effortlessly.",
     "image": {
-      "path": "./.github/images/open_source/gcalsync.webp",
-      "width": "100"
+      "path": "./.github/images/open_source/gcalsync.png",
+      "width": "215"
     },
     "tech": ["nodejs", "typescript", "apps_script"],
     "featured": true,
@@ -91,17 +104,30 @@
     "package": true
   },
   {
-    "name": "twitch-notifier",
-    "repository": "lucasvtiradentes/twitch-notifier",
+    "name": "esports-notifier",
+    "repository": "lucasvtiradentes/esports-notifier",
     "category": "open_source",
-    "description": "💬 get email notifications whenever your favorite twitch streamers go live.",
+    "description": "🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date.",
     "image": {
       "path": "./.github/images/open_source/twitch_notifier.webp",
       "width": "215"
     },
     "tech": ["javascript", "apps_script"],
     "featured": true,
-    "package": false
+    "package": true
+  },
+  {
+    "name": "twitch-notifier",
+    "repository": "lucasvtiradentes/twitch-notifier",
+    "category": "open_source",
+    "description": "🔔 get email notifications whenever your favorite twitch streamers go live.",
+    "image": {
+      "path": "./.github/images/open_source/esports-notifier.png",
+      "width": "215"
+    },
+    "tech": ["javascript", "apps_script"],
+    "featured": true,
+    "package": true
   },
   {
     "name": "dyn-markdown",
@@ -115,19 +141,6 @@
     "tech": ["nodejs", "typescript"],
     "featured": true,
     "package": true
-  },
-  {
-    "name": "ecommerce-stores-api",
-    "repository": "lucasvtiradentes/ecommerce-stores-api",
-    "category": "open_source",
-    "description": "🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.",
-    "image": {
-      "path": "./.github/images/open_source/ecommerce-stores-api.webp",
-      "width": "215"
-    },
-    "tech": ["nodejs", "typescript", "express", "mongodb"],
-    "featured": false,
-    "package": false
   },
   {
     "name": "ticktick-api-lvt",
@@ -165,6 +178,19 @@
       "width": ""
     },
     "tech": ["nodejs", "golang"],
+    "featured": false,
+    "package": false
+  },
+  {
+    "name": "boilermanager-template",
+    "repository": "lucasvtiradentes/boilermanager-template",
+    "category": "open_source",
+    "description": "📁 boilerplates repository template meant to be used alongside boilermanager.",
+    "image": {
+      "path": "",
+      "width": ""
+    },
+    "tech": ["nodejs", "typescript"],
     "featured": false,
     "package": false
   },

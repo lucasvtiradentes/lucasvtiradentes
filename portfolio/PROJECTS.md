@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <!-- <DYNFIELD:PROJECTS_COUNT> -->
-  ALL MY GITHUB PROJECTS (23)
+  ALL MY GITHUB PROJECTS (25)
   <!-- </DYNFIELD:PROJECTS_COUNT> -->
 </h3>
 
@@ -16,12 +16,12 @@
 <p align="center">
   <a href="#briefcase-work-projects">
   <!-- <DYNFIELD:WORK_COUNT> -->
-  work (3)
+  work (4)
   <!-- </DYNFIELD:WORK_COUNT> -->
   </a> •
   <a href="#star-open-source-projects">
   <!-- <DYNFIELD:OPEN_SOURCE_COUNT> -->
-  open source (9)
+  open source (10)
   <!-- </DYNFIELD:OPEN_SOURCE_COUNT> -->
   </a> •
   <a href="#books-practice-projects">
@@ -78,6 +78,17 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api#readme">ecommerce-stores-api</a><br><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api/commits/master"></td>
+    <td>🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.</td>
+    <td align="center"><a href="#"><img src="../.github/images/work/ecommerce-stores-api.webp" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a target="_blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+      <a target="_blank" href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">dropspy</td>
     <td>🕵️ a complete cloud solution for tracking shopify stores sales, persisting data in a database and inspect it in a react dashboard. This is a private repository.</td>
     <td align="center"><a href="#"><img src="../.github/images/work/dropspy.webp" width="215"></a></td>
@@ -109,7 +120,7 @@
   <tr>
     <td align="center"><a href="https://github.com/lucasvtiradentes/gcal-sync#readme">gcal-sync</a><br><a href="https://github.com/lucasvtiradentes/gcal-sync/commits/master"><a href="https://www.npmjs.com/package/gcal-sync"><img src="https://img.shields.io/npm/v/gcal-sync.svg?style=flat" alt="npm version"></a></td>
     <td>🔄 add an one way synchronization from ticktick/github to google calendar and track your progress effortlessly.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/gcalsync.webp" width="100"></a></td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/gcalsync.png" width="215"></a></td>
     <td>
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -135,9 +146,18 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier/commits/master"></td>
-    <td>💬 get email notifications whenever your favorite twitch streamers go live.</td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/esports-notifier#readme">esports-notifier</a><br><a href="https://github.com/lucasvtiradentes/esports-notifier/commits/master"><a href="https://www.npmjs.com/package/esports-notifier"><img src="https://img.shields.io/npm/v/esports-notifier.svg?style=flat" alt="npm version"></a></td>
+    <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+      <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/twitch-notifier#readme">twitch-notifier</a><br><a href="https://github.com/lucasvtiradentes/twitch-notifier/commits/master"><a href="https://www.npmjs.com/package/twitch-notifier"><img src="https://img.shields.io/npm/v/twitch-notifier.svg?style=flat" alt="npm version"></a></td>
+    <td>🔔 get email notifications whenever your favorite twitch streamers go live.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/esports-notifier.png" width="215"></a></td>
     <td>
       <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
       <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
@@ -150,17 +170,6 @@
     <td>
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api#readme">ecommerce-stores-api</a><br><a href="https://github.com/lucasvtiradentes/ecommerce-stores-api/commits/master"></td>
-    <td>🛍️ ecommerce API designed to be useful for stores owners, as it allows some messaging automation, getting order information from Aliexpress and Shopify, among other things.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/ecommerce-stores-api.webp" width="215"></a></td>
-    <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a target="_blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
-      <a target="_blank" href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -188,6 +197,15 @@
     <td>
       <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
       <a target="_blank" href="https://go.dev/"><img src="https://img.shields.io/badge/GO-blue?logo=go&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/boilermanager-template#readme">boilermanager-template</a><br><a href="https://github.com/lucasvtiradentes/boilermanager-template/commits/master"></td>
+    <td>📁 boilerplates repository template meant to be used alongside boilermanager.</td>
+    <td align="center">N/A</td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>
 </table></div>
