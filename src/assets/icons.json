@@ -15,9 +15,14 @@
     "default_link": "https://www.youtube.com/@lucasvtiradentes"
   },
   {
+    "name": "linux",
+    "image": "https://img.shields.io/badge/linux-orange?logo=linux&logoColor=white",
+    "default_link": "https://ubuntu.com/download"
+  },
+  {
     "name": "windows",
     "image": "https://img.shields.io/badge/windows-0000ff?logo=windows&logoColor=white",
-    "default_link": "ttps://www.microsoft.com/pt-br/software-download/windows11"
+    "default_link": "https://www.microsoft.com/pt-br/software-download/windows11"
   },
   {
     "name": "windows_terminal",
@@ -155,7 +160,7 @@
     "default_link": "https://en.wikipedia.org/wiki/C_(programming_language)"
   },
   {
-    "name": "apps_script",
+    "name": "google-apps-script",
     "image": "https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white",
     "default_link": "https://www.google.com/script/start/"
   },
