@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <!-- <DYNFIELD:PROJECTS_COUNT> -->
-  ALL MY GITHUB PROJECTS (29)
+  ALL MY GITHUB PROJECTS (28)
   <!-- </DYNFIELD:PROJECTS_COUNT> -->
 </h3>
 
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="#star-open-source-projects">
   <!-- <DYNFIELD:OPEN_SOURCE_COUNT> -->
-  open source (14)
+  open source (13)
   <!-- </DYNFIELD:OPEN_SOURCE_COUNT> -->
   </a> •
   <a href="#zap-personal-projects">
@@ -67,14 +67,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/cryptor#readme">cryptor</a><br></td>
-    <td>🔏 file encoder/decoder application.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/cryptor.webp" width="215"></a></td>
-    <td>
-      <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/c%20language-%2300599C.svg?logo=c&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/lucasvtiradentes/dyn-markdown#readme">dyn-markdown</a><br><a href="https://www.npmjs.com/package/dyn-markdown"><img src="https://img.shields.io/npm/v/dyn-markdown.svg?style=flat" alt="npm version"></a></td>
     <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/dyn-markdown.png" width="215"></a></td>
@@ -120,9 +112,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/repositories_utils#readme">repositories_utils</a><br><a href="https://www.npmjs.com/package/repositories_utils"><img src="https://img.shields.io/npm/v/repositories_utils.svg?style=flat" alt="npm version"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/repositories_manager#readme">repositories_manager</a><br><a href="https://www.npmjs.com/package/repositories_manager"><img src="https://img.shields.io/npm/v/repositories_manager.svg?style=flat" alt="npm version"></a></td>
     <td>🔄 sync and manage your git repositories effortlessly.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/repositories_utils.webp" width="215"></a></td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/repositories_manager.webp" width="215"></a></td>
     <td>
       <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F1502F?logo=git&logoColor=white"></a>
       <a target="_blank" href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/linux-orange?logo=linux&logoColor=white"></a>
@@ -136,6 +128,15 @@
     <td>
       <a target="_blank" href="https://www.google.com/script/start/"><img src="https://img.shields.io/badge/apps%20script-4285F4?logo=google&logoColor=white"></a>
       <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt#readme">ticktick-api-lvt</a><br><a href="https://www.npmjs.com/package/ticktick-api-lvt"><img src="https://img.shields.io/npm/v/ticktick-api-lvt.svg?style=flat" alt="npm version"></a></td>
+    <td>📅 a ticktick api wrapper package to be used in node based projects.</td>
+    <td align="center">N/A</td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -161,15 +162,6 @@
     <td align="center">N/A</td>
     <td>
       <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
-      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt#readme">ticktick-api-lvt</a><br><a href="https://www.npmjs.com/package/ticktick-api-lvt"><img src="https://img.shields.io/npm/v/ticktick-api-lvt.svg?style=flat" alt="npm version"></a></td>
-    <td>📅 a ticktick api wrapper package to be used in node based projects.</td>
-    <td align="center">N/A</td>
-    <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>
@@ -256,7 +248,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel#readme">shopify-store-omni-pixel</a><br><a href="https://www.npmjs.com/package/shopify-store-omni-pixel"><img src="https://img.shields.io/npm/v/shopify-store-omni-pixel.svg?style=flat" alt="npm version"></a></td>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/shopify-store-omni-pixel#readme">shopify-store-omni-pixel</a><br></td>
     <td>🔎 Save webstores user behavior information into cookies and send events to ads and analytics platforms, like GA, Facebook and Tiktok</td>
     <td align="center"><a href="#"><img src="../.github/images/freelance/shopify-store-omni-pixel.png" width="215"></a></td>
     <td>

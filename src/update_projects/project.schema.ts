@@ -10,7 +10,6 @@ const zLocalRepo = z.object({
   name: z.string(),
   category: zCategories,
   image: zImage.nullable(),
-  featured: z.boolean().optional(),
   package: z.boolean().optional()
 })
 

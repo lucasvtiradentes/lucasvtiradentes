@@ -1,12 +1,11 @@
 [
   {
-    "name": "repositories_utils",
+    "name": "repositories_manager",
     "category": "open_source",
     "image": {
-      "path": "./.github/images/open_source/repositories_utils.webp",
+      "path": "./.github/images/open_source/repositories_manager.webp",
       "width": "215"
     },
-    "featured": true,
     "package": true
   },
   {
@@ -16,7 +15,6 @@
       "path": "./.github/images/open_source/gcalsync.png",
       "width": "215"
     },
-    "featured": true,
     "package": true
   },
   {
@@ -41,7 +39,6 @@
     "name": "ticktick-api-lvt",
     "category": "open_source",
     "image": null,
-    "featured": true,
     "package": true
   },
   {
@@ -66,7 +63,6 @@
       "path": "./.github/images/open_source/page_actions_attacher.webp",
       "width": "215"
     },
-    "featured": true,
     "package": true
   },
   {
@@ -135,9 +131,7 @@
     "image": {
       "path": "./.github/images/freelance/shopify-store-omni-pixel.png",
       "width": "215"
-    },
-    "featured": true,
-    "package": true
+    }
   },
   {
     "name": "supermarket-chatbot",
@@ -209,15 +203,6 @@
     "category": "portfolio",
     "image": {
       "path": "./.github/images/portfolio/metaversus.webp",
-      "width": "215"
-    },
-    "package": false
-  },
-  {
-    "name": "cryptor",
-    "category": "open_source",
-    "image": {
-      "path": "./.github/images/open_source/cryptor.webp",
       "width": "215"
     },
     "package": false

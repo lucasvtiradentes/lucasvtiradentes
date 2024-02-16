@@ -19,6 +19,12 @@ export async function updateProjects(extendedRepositories: TExtendedRepoInfo[]){
     if (hasImageA && !hasImageB) { return -1; }
     if (!hasImageA && hasImageB) { return 1; }
     return 0;
+  }).sort((repoA, repoB) => {
+    const isPackageA = Boolean(repoA.package);
+    const isPackageB = Boolean(repoB.package);
+    if (isPackageA && !isPackageB) { return -1; }
+    if (!isPackageA && isPackageB) { return 1; }
+    return 0;
   });
 
   projectsMarkdown.updateField('PROJECTS_COUNT', `ALL MY GITHUB PROJECTS (${sortedRepositories.length})`)
