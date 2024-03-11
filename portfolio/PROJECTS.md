@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <!-- <DYNFIELD:PROJECTS_COUNT> -->
-  ALL MY GITHUB PROJECTS (28)
+  ALL MY GITHUB PROJECTS (30)
   <!-- </DYNFIELD:PROJECTS_COUNT> -->
 </h3>
 
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="#star-open-source-projects">
   <!-- <DYNFIELD:OPEN_SOURCE_COUNT> -->
-  open source (13)
+  open source (15)
   <!-- </DYNFIELD:OPEN_SOURCE_COUNT> -->
   </a> •
   <a href="#zap-personal-projects">
@@ -67,15 +67,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/lucasvtiradentes/dyn-markdown#readme">dyn-markdown</a><br><a href="https://www.npmjs.com/package/dyn-markdown"><img src="https://img.shields.io/npm/v/dyn-markdown.svg?style=flat" alt="npm version"></a></td>
-    <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.</td>
-    <td align="center"><a href="#"><img src="../.github/images/open_source/dyn-markdown.png" width="215"></a></td>
-    <td>
-      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/lucasvtiradentes/esports-notifier#readme">esports-notifier</a><br><a href="https://www.npmjs.com/package/esports-notifier"><img src="https://img.shields.io/npm/v/esports-notifier.svg?style=flat" alt="npm version"></a></td>
     <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date.</td>
     <td align="center"><a href="#"><img src="../.github/images/open_source/twitch_notifier.webp" width="215"></a></td>
@@ -100,6 +91,15 @@
     <td align="center"><a href="#"><img src="../.github/images/open_source/linux_reminder.png" width="215"></a></td>
     <td>
       <a target="_blank" href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/linux-orange?logo=linux&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/markdown-helper#readme">markdown-helper</a><br><a href="https://www.npmjs.com/package/markdown-helper"><img src="https://img.shields.io/npm/v/markdown-helper.svg?style=flat" alt="npm version"></a></td>
+    <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/markdown-helper.png" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -140,6 +140,16 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/obsidian-notes-manager#readme">obsidian-notes-manager</a><br></td>
+    <td>📚 convert obsidian notes into json and table.</td>
+    <td align="center"><a href="#"><img src="../.github/images/open_source/obsidian-notes-manager.webp" width="215"></a></td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://obsidian.md/"><img src="https://img.shields.io/badge/obsidian-7D69D6?logo=obsidian&logoColor=white"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/lucasvtiradentes/boilermanager-template#readme">boilermanager-template</a><br></td>
     <td>📁 boilerplates repository template meant to be used alongside boilermanager.</td>
     <td align="center">N/A</td>
@@ -162,6 +172,16 @@
     <td align="center">N/A</td>
     <td>
       <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+      <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/lucasvtiradentes/obsidian-xmind-viewer#readme">obsidian-xmind-viewer</a><br></td>
+    <td>👀 view xmind files in obsidian.</td>
+    <td align="center">N/A</td>
+    <td>
+      <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
+      <a target="_blank" href="https://obsidian.md/"><img src="https://img.shields.io/badge/obsidian-7D69D6?logo=obsidian&logoColor=white"></a>
       <a target="_blank" href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     </td>
   </tr>

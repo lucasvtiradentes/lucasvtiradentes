@@ -18,10 +18,10 @@
     "package": true
   },
   {
-    "name": "dyn-markdown",
+    "name": "markdown-helper",
     "category": "open_source",
     "image": {
-      "path": "./.github/images/open_source/dyn-markdown.png",
+      "path": "./.github/images/open_source/markdown-helper.png",
       "width": "215"
     },
     "package": true
@@ -49,6 +49,21 @@
       "width": "215"
     },
     "package": true
+  },
+  {
+    "name": "obsidian-notes-manager",
+    "category": "open_source",
+    "image": {
+      "path": "./.github/images/open_source/obsidian-notes-manager.webp",
+      "width": "215"
+    },
+    "package": false
+  },
+  {
+    "name": "obsidian-xmind-viewer",
+    "category": "open_source",
+    "image": null,
+    "package": false
   },
   {
     "name": "my-tutorials",

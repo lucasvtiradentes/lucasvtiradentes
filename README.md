@@ -9,7 +9,7 @@
 <div align="center">
   <span>👉 <a href="https://github.com/lucasvtiradentes/my-tutorials/blob/master/README.md#TOC">articles (7)</a><br /><br />
 <!-- <DYNFIELD:ALL_PROJECTS> -->
-  <span>👉 <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (28)</a></span>
+  <span>👉 <a href="https://github.com/lucasvtiradentes/lucasvtiradentes/blob/master/portfolio/PROJECTS.md#TOC">projects (30)</a></span><br />
 <!-- </DYNFIELD:ALL_PROJECTS> -->
 </div>
 
