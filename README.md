@@ -16,6 +16,14 @@
 <br />
 
 <details>
+  <summary align="center"><b>⭐ open source (10)</b></summary>
+  <br>
+  <p align="center">
+    <img height="450px" src="https://app.eraser.io/workspace/Ynym43GrUxA2u497qmEC/preview?elements=rqqsjQ8fZOM0GFR_cCWOCA&type=embed" />
+  </p>
+</details>
+
+<details>
   <summary align="center"><b>📈 coding stats</b></summary>
   <br>
   <p align="center">
@@ -31,12 +39,8 @@
   </p>
 </details>
 
-<div align="center">
-  <b>⭐ open source projects (10)</b><br/><br />
-  <img height="450px" src="https://app.eraser.io/workspace/Ynym43GrUxA2u497qmEC/preview?elements=rqqsjQ8fZOM0GFR_cCWOCA&type=embed" />
-</div>
-
 <br />
+
 <p align="center">
   <a href="https://github.com/lucasvtiradentes"><img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6" alt="lucasvtiradentes" /></a>
 </p>
