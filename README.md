@@ -6,10 +6,10 @@
 <br />
 
 <details>
-  <summary align="center"><b>⭐ featured (10)</b></summary>
+  <summary align="center"><b>⭐ repositories overview</b></summary>
   <br>
   <p align="center">
-    <img height="450px" src="https://app.eraser.io/workspace/Ynym43GrUxA2u497qmEC/preview?elements=rqqsjQ8fZOM0GFR_cCWOCA&type=embed" />
+    <img height="450px" src="https://app.eraser.io/workspace/Ma1oHFWYwfqPyUiWpFmu/preview?elements=xGTkMBUkPqB2BFZH7XOUNQ&type=embed" />
   </p>
 </details>
 
