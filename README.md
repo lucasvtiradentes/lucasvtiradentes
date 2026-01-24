@@ -1,9 +1,31 @@
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/lucasvtiradentes/"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="mailto:lucasvtiradentes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"></a>
+
+# Hi, I'm Lucas Vieira 👋
+
+Full-stack developer passionate about building clean, efficient solutions with modern technologies.
+
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvtiradentes/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:lucasvtiradentes@gmail.com)
+
 </div>
 
-<br />
+## 🚀 About Me
+
+I'm a software engineer focused on creating efficient, maintainable code. My interests include full-stack development, automation, and open-source contributions. I believe in writing code that is simple, clean, and purposeful.
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python
+**Frontend:** React, Next.js, Vue.js
+**Backend:** Node.js, Express, NestJS
+**Tools:** Git, Docker, Linux
+**Databases:** PostgreSQL, MongoDB, Redis
+
+## 📦 Featured Projects
+
+Check out my pinned repositories below to see what I've been working on. I focus on practical tools, automation scripts, and web applications that solve real problems.
+
+---
 
 <details>
   <summary align="center"><b>⭐ repositories overview</b></summary>
@@ -29,8 +51,16 @@
   </p>
 </details>
 
-<br />
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities.
 
 <p align="center">
   <a href="https://github.com/lucasvtiradentes"><img src="https://komarev.com/ghpvc/?username=lucasvtiradentes&label=Visitors&color=0e75b6" alt="lucasvtiradentes" /></a>
 </p>
+
+</div>
