@@ -10,7 +10,7 @@ type RepoInfo = {
   mainLanguage: string | null
 }
 
-type RepoName = 'lucasvtiradentes' | 'dev-panel' | 'site-tweaker' | 'gcal-sync' | 'oh-my-tray' | 'better-claude-code' | 'tscanner' | 'tscanner-action' | 'sheet-cmd' | 'chrome-cmd' | 'linear-cmd' | 'repositories-manager' | 'typed-routes' | 'ticktick-api-lvt' | 'markdown-helper' | 'esports-notifier' | 'twitch-notifier'
+type RepoName = 'dev-panel' | 'chrome-cmd' | 'doc-trace' | 'branch-context' | 'doc-update' | 'claude-code-pretty' | 'doc-align' | 'site-tweaker' | 'lucasvtiradentes' | 'gcal-sync' | 'tscanner' | 'tscanner-action' | 'sheet-cmd' | 'repositories-manager' | 'ticktick-api-lvt' | 'markdown-helper' | 'esports-notifier'
 
 const REPOS: RepoInfo[] = reposData
 

@@ -1,18 +1,5 @@
 [
   {
-    "name": "lucasvtiradentes",
-    "description": "🚀 github description repository",
-    "keywords": [
-      "github",
-      "readme",
-      "readme-profile"
-    ],
-    "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2025-10-24T12:02:10Z",
-    "pushedAt": "2026-01-19T11:35:34Z",
-    "mainLanguage": null
-  },
-  {
     "name": "dev-panel",
     "description": "⚡ all-in-one command center for ai-assisted development",
     "keywords": [
@@ -24,25 +11,123 @@
       "cursor"
     ],
     "createdAt": "2025-12-18T03:50:20Z",
-    "updatedAt": "2026-01-18T13:18:41Z",
-    "pushedAt": "2026-01-18T13:18:36Z",
+    "updatedAt": "2026-03-15T18:31:13Z",
+    "pushedAt": "2026-03-15T18:32:02Z",
     "mainLanguage": "TypeScript"
   },
   {
+    "name": "chrome-cmd",
+    "description": "🌐 interact your Chrome browser from the command line",
+    "keywords": [
+      "browser",
+      "chrome",
+      "cli",
+      "terminal",
+      "automation",
+      "claude-code"
+    ],
+    "createdAt": "2025-10-06T01:04:40Z",
+    "updatedAt": "2026-03-08T03:16:22Z",
+    "pushedAt": "2026-03-08T03:17:03Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "doc-trace",
+    "description": "📚 Detect outdated docs from code changes",
+    "keywords": [
+      "agentic-engineering",
+      "claude-code",
+      "codex",
+      "docs",
+      "gemini"
+    ],
+    "createdAt": "2026-02-17T01:38:16Z",
+    "updatedAt": "2026-03-04T11:15:03Z",
+    "pushedAt": "2026-03-05T00:35:30Z",
+    "mainLanguage": "Python"
+  },
+  {
+    "name": "branch-context",
+    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks ",
+    "keywords": [
+      "agentic-engineering",
+      "claude-code",
+      "codex",
+      "context-engineering"
+    ],
+    "createdAt": "2026-02-23T21:30:11Z",
+    "updatedAt": "2026-03-03T12:11:57Z",
+    "pushedAt": "2026-03-04T11:25:54Z",
+    "mainLanguage": "Python"
+  },
+  {
+    "name": "doc-update",
+    "description": "🔄 keep docs in sync with code changes using ai-powered workflows  ",
+    "keywords": [
+      "claude-code",
+      "docs",
+      "github-action"
+    ],
+    "createdAt": "2026-02-18T00:01:24Z",
+    "updatedAt": "2026-03-04T11:16:26Z",
+    "pushedAt": "2026-03-04T11:16:22Z",
+    "mainLanguage": null
+  },
+  {
+    "name": "claude-code-pretty",
+    "description": "🎨 pretty formatter for claude code json stream or saved .jsonl files",
+    "keywords": [
+      "claude-code",
+      "pretty-print",
+      "cicd"
+    ],
+    "createdAt": "2026-02-18T01:53:40Z",
+    "updatedAt": "2026-02-26T04:08:09Z",
+    "pushedAt": "2026-02-26T04:08:05Z",
+    "mainLanguage": "Python"
+  },
+  {
+    "name": "doc-align",
+    "description": "📏 Auto-fix alignment in markdown docs",
+    "keywords": [
+      "agentic-engineering",
+      "docs",
+      "markdown",
+      "python"
+    ],
+    "createdAt": "2026-02-26T01:29:14Z",
+    "updatedAt": "2026-02-26T01:45:53Z",
+    "pushedAt": "2026-02-26T01:45:49Z",
+    "mainLanguage": "Python"
+  },
+  {
     "name": "site-tweaker",
-    "description": "🔧 chrome extension to customize any website with custom js scripts and css styles",
+    "description": "🔧 chrome extension to customize any website with custom js scripts",
     "keywords": [
       "chrome-extension",
       "customization"
     ],
     "createdAt": "2026-01-11T11:27:44Z",
-    "updatedAt": "2026-01-12T05:13:12Z",
-    "pushedAt": "2026-01-12T05:01:10Z",
+    "updatedAt": "2026-02-22T18:27:27Z",
+    "pushedAt": "2026-02-22T18:27:23Z",
     "mainLanguage": "Svelte"
   },
   {
+    "name": "lucasvtiradentes",
+    "description": "🚀 github description repository",
+    "keywords": [
+      "github",
+      "readme",
+      "readme-profile"
+    ],
+    "createdAt": "2020-07-13T17:15:20Z",
+    "updatedAt": "2025-10-24T12:02:10Z",
+    "pushedAt": "2026-02-22T12:47:41Z",
+    "mainLanguage": null
+  },
+  {
     "name": "gcal-sync",
-    "description": "🔄 add an one way synchronization from github commits to google calendar and track your progress effortlessly",
+    "description": "🔄  sync github commits to google calendar and track your coding activity",
     "keywords": [
       "google-calendar",
       "github",
@@ -52,34 +137,8 @@
       "typescript"
     ],
     "createdAt": "2023-02-07T10:13:42Z",
-    "updatedAt": "2026-01-10T11:45:18Z",
-    "pushedAt": "2026-01-10T11:45:50Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "oh-my-tray",
-    "description": "🖥️ system tray app for tracking the stuff I care about",
-    "keywords": [
-      "claude-code",
-      "svelte",
-      "tauri"
-    ],
-    "createdAt": "2026-01-07T10:06:18Z",
-    "updatedAt": "2026-01-12T05:04:46Z",
-    "pushedAt": "2026-01-07T12:33:49Z",
-    "mainLanguage": "Rust"
-  },
-  {
-    "name": "better-claude-code",
-    "description": "🤖 Toolkit to view, analyze and compact Claude Code sessions across projects. Available as CLI tool and VS Code extension.",
-    "keywords": [
-      "claude-code",
-      "cli",
-      "vscode-extension"
-    ],
-    "createdAt": "2025-11-02T05:41:21Z",
-    "updatedAt": "2026-01-01T11:33:02Z",
-    "pushedAt": "2026-01-01T11:32:58Z",
+    "updatedAt": "2026-02-23T14:38:41Z",
+    "pushedAt": "2026-02-09T02:45:02Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -101,8 +160,8 @@
       "code-scanner"
     ],
     "createdAt": "2025-11-12T02:39:05Z",
-    "updatedAt": "2026-01-16T13:16:42Z",
-    "pushedAt": "2025-12-19T00:20:34Z",
+    "updatedAt": "2026-02-16T03:37:25Z",
+    "pushedAt": "2026-02-08T21:50:05Z",
     "mainLanguage": "Rust"
   },
   {
@@ -134,31 +193,6 @@
     "mainLanguage": "TypeScript"
   },
   {
-    "name": "chrome-cmd",
-    "description": "🌐 interact your Chrome browser from the command line",
-    "keywords": [
-      "browser",
-      "chrome",
-      "cli",
-      "terminal",
-      "automation",
-      "claude-code"
-    ],
-    "createdAt": "2025-10-06T01:04:40Z",
-    "updatedAt": "2025-11-15T23:16:01Z",
-    "pushedAt": "2025-10-28T10:10:05Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "linear-cmd",
-    "description": "⚡ a GitHub CLI-like tool for Linear.",
-    "keywords": [],
-    "createdAt": "2025-07-18T18:00:52Z",
-    "updatedAt": "2025-10-27T02:32:36Z",
-    "pushedAt": "2025-10-25T05:47:54Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
     "name": "repositories-manager",
     "description": "🔄 sync and manage your git repositories effortlessly",
     "keywords": [
@@ -175,20 +209,6 @@
     "mainLanguage": "TypeScript"
   },
   {
-    "name": "typed-routes",
-    "description": "🧭 easiest way to use typed routes in React (router dom) and Next.js applications",
-    "keywords": [
-      "nextjs",
-      "react",
-      "type-safe",
-      "typescript"
-    ],
-    "createdAt": "2024-09-30T02:17:01Z",
-    "updatedAt": "2025-10-24T12:02:14Z",
-    "pushedAt": "2024-10-01T11:26:22Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
     "name": "ticktick-api-lvt",
     "description": "📅 a ticktick api wrapper package to be used in node based projects",
     "keywords": [
@@ -199,7 +219,7 @@
       "nodejs"
     ],
     "createdAt": "2022-12-02T20:15:44Z",
-    "updatedAt": "2025-10-24T12:02:17Z",
+    "updatedAt": "2026-03-07T13:24:14Z",
     "pushedAt": "2024-03-30T16:04:09Z",
     "mainLanguage": "TypeScript"
   },
@@ -230,19 +250,6 @@
     "createdAt": "2023-04-09T16:06:02Z",
     "updatedAt": "2025-10-24T12:02:21Z",
     "pushedAt": "2024-02-17T11:17:41Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "twitch-notifier",
-    "description": "🔔 get email notifications whenever your favorite twitch streamers go live",
-    "keywords": [
-      "twitch",
-      "google-apps-script",
-      "javascript"
-    ],
-    "createdAt": "2023-04-06T23:49:16Z",
-    "updatedAt": "2025-10-24T12:02:23Z",
-    "pushedAt": "2023-04-26T02:31:39Z",
     "mainLanguage": "TypeScript"
   }
 ]

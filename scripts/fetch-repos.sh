@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -29,7 +29,7 @@ fetch_repos() {
 
 update_repos_type() {
   local repos_names=$(jq -r '[.[].name] | map("'"'"'\(.)'"'"'") | join(" | ")' "$OUTPUT_FILE")
-  sed -i "s/^type RepoName = .*/type RepoName = $repos_names/" "$REPOS_TS"
+  sed "s/^type RepoName = .*/type RepoName = $repos_names/" "$REPOS_TS" > "$REPOS_TS.tmp" && mv "$REPOS_TS.tmp" "$REPOS_TS"
 
   echo "Updated RepoName type in $REPOS_TS"
 }
