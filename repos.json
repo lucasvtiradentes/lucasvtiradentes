@@ -8,8 +8,8 @@
       "readme-profile"
     ],
     "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-03-16T02:16:36Z",
-    "pushedAt": "2026-03-16T02:16:33Z",
+    "updatedAt": "2026-03-16T02:34:37Z",
+    "pushedAt": "2026-03-16T02:34:33Z",
     "mainLanguage": "Shell"
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "name": "gcal-sync",
-    "description": "🔄  sync github commits to google calendar and track your coding activity",
+    "description": "🔄  sync your github commits to google calendar",
     "keywords": [
       "google-calendar",
       "github",
@@ -137,7 +137,7 @@
       "typescript"
     ],
     "createdAt": "2023-02-07T10:13:42Z",
-    "updatedAt": "2026-02-23T14:38:41Z",
+    "updatedAt": "2026-03-16T02:37:48Z",
     "pushedAt": "2026-02-09T02:45:02Z",
     "mainLanguage": "TypeScript"
   },

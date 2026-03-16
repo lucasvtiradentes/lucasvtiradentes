@@ -5,10 +5,12 @@ REPOS_JSON="$SCRIPT_DIR/../repos.json"
 README="$SCRIPT_DIR/../README.md"
 
 REPO_GROUPS=(
-  "AI-Assisted Development:branch-context,dev-panel,tscanner,tscanner-action"
+  "AI-Assisted Development:branch-context,tscanner,tscanner-action"
+  "Dev Development:dev-panel,repositories-manager"
   "Documentation Tools:doc-trace,doc-update,doc-align,markdown-helper"
-  "CLI Tools:chrome-cmd,sheet-cmd,claude-code-pretty,repositories-manager"
-  "General:gcal-sync,esports-notifier,site-tweaker,ticktick-api-lvt,lucasvtiradentes"
+  "CLI Tools:chrome-cmd,sheet-cmd,claude-code-pretty"
+  "Automations:gcal-sync,esports-notifier"
+  "General:site-tweaker,ticktick-api-lvt,lucasvtiradentes"
 )
 
 get_desc() {
@@ -28,7 +30,7 @@ generate_table() {
 
   echo "<table>"
   echo "  <tr>"
-  echo "    <th>Group</th>"
+  echo "    <th>Category</th>"
   echo "    <th>Repo ($total_repos)</th>"
   echo "    <th>Description</th>"
   echo "  </tr>"

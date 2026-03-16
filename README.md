@@ -19,18 +19,14 @@
 <!-- REPOS:START -->
 <table>
   <tr>
-    <th>Group</th>
+    <th>Category</th>
     <th>Repo (17)</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="4">AI-Assisted Development</td>
+    <td rowspan="3">AI-Assisted Development</td>
     <td><a href="https://github.com/lucasvtiradentes/branch-context">branch-context</a></td>
     <td>🌿 per-branch context for ai coding agents auto-synced via git hooks </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
-    <td>⚡ all-in-one command center for ai-assisted development</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/tscanner">tscanner</a></td>
@@ -39,6 +35,15 @@
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/tscanner-action">tscanner-action</a></td>
     <td>🔍 run Tscanner quality checks in your GitHub workflows</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Dev Development</td>
+    <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
+    <td>⚡ all-in-one command center for ai-assisted development</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/repositories-manager">repositories-manager</a></td>
+    <td>🔄 sync and manage your git repositories effortlessly</td>
   </tr>
   <tr>
     <td rowspan="4">Documentation Tools</td>
@@ -58,7 +63,7 @@
     <td>📖 dynamic markdown sections made easy for nodejs</td>
   </tr>
   <tr>
-    <td rowspan="4">CLI Tools</td>
+    <td rowspan="3">CLI Tools</td>
     <td><a href="https://github.com/lucasvtiradentes/chrome-cmd">chrome-cmd</a></td>
     <td>🌐 interact your Chrome browser from the command line</td>
   </tr>
@@ -71,19 +76,16 @@
     <td>🎨 pretty formatter for claude code json stream or saved .jsonl files</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lucasvtiradentes/repositories-manager">repositories-manager</a></td>
-    <td>🔄 sync and manage your git repositories effortlessly</td>
-  </tr>
-  <tr>
-    <td rowspan="5">General</td>
+    <td rowspan="2">Automations</td>
     <td><a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a></td>
-    <td>🔄  sync github commits to google calendar and track your coding activity</td>
+    <td>🔄  sync your github commits to google calendar</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/esports-notifier">esports-notifier</a></td>
     <td>🔔 daily email alerts for your favorite esports teams matches</td>
   </tr>
   <tr>
+    <td rowspan="3">General</td>
     <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
     <td>🔧 chrome extension to customize any website with custom js scripts</td>
   </tr>
