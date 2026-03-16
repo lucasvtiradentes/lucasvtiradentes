@@ -1,29 +1,22 @@
 #!/usr/bin/env bash
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-
-ONLY_PUBLIC=true
 USERNAME="lucasvtiradentes"
-OUTPUT_FILE="$SCRIPT_DIR/../repos.json"
-
-get_visibility() {
-  if [ "$ONLY_PUBLIC" = true ]; then
-    echo "public"
-  else
-    echo "public,private"
-  fi
-}
+PUBLIC_FILE="$SCRIPT_DIR/../repos.json"
+PRIVATE_FILE="$SCRIPT_DIR/../private-repos.json"
 
 fetch_repos() {
-  local visibility=$(get_visibility)
+  local visibility="$1"
+  local output_file="$2"
 
   gh repo list "$USERNAME" \
     --visibility "$visibility" \
     --limit 1000 \
     --json name,description,repositoryTopics,createdAt,updatedAt,pushedAt,primaryLanguage \
-    | jq --indent 2 '[.[] | {name: .name, description: .description, keywords: [.repositoryTopics[]?.name // empty], createdAt: .createdAt, updatedAt: .updatedAt, pushedAt: .pushedAt, mainLanguage: .primaryLanguage.name}]' > "$OUTPUT_FILE"
+    | jq --indent 2 '[.[] | {name: .name, description: .description, keywords: [.repositoryTopics[]?.name // empty], createdAt: .createdAt, updatedAt: .updatedAt, pushedAt: .pushedAt, mainLanguage: .primaryLanguage.name}]' > "$output_file"
 
-  echo "Saved $(jq length "$OUTPUT_FILE") repos to $OUTPUT_FILE"
+  echo "Saved $(jq length "$output_file") repos to $output_file"
 }
 
-fetch_repos
+fetch_repos "public" "$PUBLIC_FILE"
+fetch_repos "private" "$PRIVATE_FILE"
