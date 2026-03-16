@@ -31,11 +31,13 @@ row_with_group() {
 
 TABLE_FILE=$(mktemp -t update_readme)
 
+REPO_COUNT=$(jq 'length' "$REPOS_JSON")
+
 {
   echo "<table>"
   echo "  <tr>"
   echo "    <th>Group</th>"
-  echo "    <th>Repo</th>"
+  echo "    <th>Repo ($REPO_COUNT)</th>"
   echo "    <th>Description</th>"
   echo "  </tr>"
 
