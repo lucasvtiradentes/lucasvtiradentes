@@ -5,7 +5,6 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ONLY_PUBLIC=true
 USERNAME="lucasvtiradentes"
 OUTPUT_FILE="$SCRIPT_DIR/../repos.json"
-REPOS_TS="$SCRIPT_DIR/update-markdown-repos.ts"
 
 get_visibility() {
   if [ "$ONLY_PUBLIC" = true ]; then
@@ -27,16 +26,4 @@ fetch_repos() {
   echo "Saved $(jq length "$OUTPUT_FILE") repos to $OUTPUT_FILE"
 }
 
-update_repos_type() {
-  local repos_names=$(jq -r '[.[].name] | map("'"'"'\(.)'"'"'") | join(" | ")' "$OUTPUT_FILE")
-  sed "s/^type RepoName = .*/type RepoName = $repos_names/" "$REPOS_TS" > "$REPOS_TS.tmp" && mv "$REPOS_TS.tmp" "$REPOS_TS"
-
-  echo "Updated RepoName type in $REPOS_TS"
-}
-
-main() {
-  fetch_repos
-  update_repos_type
-}
-
-main
+fetch_repos

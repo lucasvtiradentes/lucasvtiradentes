@@ -1,5 +1,18 @@
 [
   {
+    "name": "lucasvtiradentes",
+    "description": "🚀 github description repository",
+    "keywords": [
+      "github",
+      "readme",
+      "readme-profile"
+    ],
+    "createdAt": "2020-07-13T17:15:20Z",
+    "updatedAt": "2026-03-16T02:16:36Z",
+    "pushedAt": "2026-03-16T02:16:33Z",
+    "mainLanguage": "Shell"
+  },
+  {
     "name": "dev-panel",
     "description": "⚡ all-in-one command center for ai-assisted development",
     "keywords": [
@@ -33,7 +46,7 @@
   },
   {
     "name": "doc-trace",
-    "description": "📚 Detect outdated docs from code changes",
+    "description": "📚 detect outdated docs from code changes",
     "keywords": [
       "agentic-engineering",
       "claude-code",
@@ -42,7 +55,7 @@
       "gemini"
     ],
     "createdAt": "2026-02-17T01:38:16Z",
-    "updatedAt": "2026-03-04T11:15:03Z",
+    "updatedAt": "2026-03-16T02:17:52Z",
     "pushedAt": "2026-03-05T00:35:30Z",
     "mainLanguage": "Python"
   },
@@ -88,7 +101,7 @@
   },
   {
     "name": "doc-align",
-    "description": "📏 Auto-fix alignment in markdown docs",
+    "description": "📏 auto-fix alignment in markdown docs",
     "keywords": [
       "agentic-engineering",
       "docs",
@@ -96,7 +109,7 @@
       "python"
     ],
     "createdAt": "2026-02-26T01:29:14Z",
-    "updatedAt": "2026-02-26T01:45:53Z",
+    "updatedAt": "2026-03-16T02:17:47Z",
     "pushedAt": "2026-02-26T01:45:49Z",
     "mainLanguage": "Python"
   },
@@ -111,19 +124,6 @@
     "updatedAt": "2026-02-22T18:27:27Z",
     "pushedAt": "2026-02-22T18:27:23Z",
     "mainLanguage": "Svelte"
-  },
-  {
-    "name": "lucasvtiradentes",
-    "description": "🚀 github description repository",
-    "keywords": [
-      "github",
-      "readme",
-      "readme-profile"
-    ],
-    "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2025-10-24T12:02:10Z",
-    "pushedAt": "2026-02-22T12:47:41Z",
-    "mainLanguage": null
   },
   {
     "name": "gcal-sync",
@@ -166,14 +166,14 @@
   },
   {
     "name": "tscanner-action",
-    "description": "🔍 Run Tscanner quality checks in your GitHub workflows",
+    "description": "🔍 run Tscanner quality checks in your GitHub workflows",
     "keywords": [
       "ai-assisted-development",
       "code-quality",
       "github-action"
     ],
     "createdAt": "2025-11-23T12:37:15Z",
-    "updatedAt": "2025-12-19T00:20:33Z",
+    "updatedAt": "2026-03-16T02:17:37Z",
     "pushedAt": "2025-12-19T00:20:30Z",
     "mainLanguage": null
   },
@@ -225,7 +225,7 @@
   },
   {
     "name": "markdown-helper",
-    "description": "📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically",
+    "description": "📖 dynamic markdown sections made easy for nodejs",
     "keywords": [
       "markdown",
       "nodejs",
@@ -233,13 +233,13 @@
       "markdown-handler"
     ],
     "createdAt": "2023-02-02T11:52:34Z",
-    "updatedAt": "2025-10-24T12:02:19Z",
+    "updatedAt": "2026-03-16T02:14:43Z",
     "pushedAt": "2024-03-03T23:23:38Z",
     "mainLanguage": "TypeScript"
   },
   {
     "name": "esports-notifier",
-    "description": "🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date",
+    "description": "🔔 daily email alerts for your favorite esports teams matches",
     "keywords": [
       "google-apps-script",
       "csgo",
@@ -248,7 +248,7 @@
       "valorant"
     ],
     "createdAt": "2023-04-09T16:06:02Z",
-    "updatedAt": "2025-10-24T12:02:21Z",
+    "updatedAt": "2026-03-16T02:12:18Z",
     "pushedAt": "2024-02-17T11:17:41Z",
     "mainLanguage": "TypeScript"
   }

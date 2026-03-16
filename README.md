@@ -38,12 +38,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/tscanner-action">tscanner-action</a></td>
-    <td>🔍 Run Tscanner quality checks in your GitHub workflows</td>
+    <td>🔍 run Tscanner quality checks in your GitHub workflows</td>
   </tr>
   <tr>
     <td rowspan="4">Documentation Tools</td>
     <td><a href="https://github.com/lucasvtiradentes/doc-trace">doc-trace</a></td>
-    <td>📚 Detect outdated docs from code changes</td>
+    <td>📚 detect outdated docs from code changes</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/doc-update">doc-update</a></td>
@@ -51,11 +51,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/doc-align">doc-align</a></td>
-    <td>📏 Auto-fix alignment in markdown docs</td>
+    <td>📏 auto-fix alignment in markdown docs</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/markdown-helper">markdown-helper</a></td>
-    <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically</td>
+    <td>📖 dynamic markdown sections made easy for nodejs</td>
   </tr>
   <tr>
     <td rowspan="4">CLI Tools</td>
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/esports-notifier">esports-notifier</a></td>
-    <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date</td>
+    <td>🔔 daily email alerts for your favorite esports teams matches</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
