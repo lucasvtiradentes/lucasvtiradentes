@@ -5,10 +5,10 @@ REPOS_JSON="$SCRIPT_DIR/../repos.json"
 README="$SCRIPT_DIR/../README.md"
 
 REPO_GROUPS=(
-  "AI-Assisted Development:branch-context,tscanner,tscanner-action"
-  "Dev Development:dev-panel,repositories-manager"
-  "Documentation Tools:doc-trace,doc-update,doc-align,markdown-helper"
-  "CLI Tools:chrome-cmd,sheet-cmd,claude-code-pretty"
+  "Agentic engineering:branch-context,tscanner,tscanner-action"
+  "Developer tools:dev-panel,repositories-manager"
+  "Documentation tools:doc-trace,doc-update,doc-align,markdown-helper"
+  "CLI tools:chrome-cmd,sheet-cmd,claude-code-pretty"
   "Automations:gcal-sync,esports-notifier"
   "General:site-tweaker,ticktick-api-lvt,lucasvtiradentes"
 )

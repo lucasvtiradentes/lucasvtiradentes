@@ -24,7 +24,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="3">AI-Assisted Development</td>
+    <td rowspan="3">Agentic engineering</td>
     <td><a href="https://github.com/lucasvtiradentes/branch-context">branch-context</a></td>
     <td>🌿 per-branch context for ai coding agents auto-synced via git hooks </td>
   </tr>
@@ -37,7 +37,7 @@
     <td>🔍 run Tscanner quality checks in your GitHub workflows</td>
   </tr>
   <tr>
-    <td rowspan="2">Dev Development</td>
+    <td rowspan="2">Developer tools</td>
     <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
     <td>⚡ all-in-one command center for ai-assisted development</td>
   </tr>
@@ -46,7 +46,7 @@
     <td>🔄 sync and manage your git repositories effortlessly</td>
   </tr>
   <tr>
-    <td rowspan="4">Documentation Tools</td>
+    <td rowspan="4">Documentation tools</td>
     <td><a href="https://github.com/lucasvtiradentes/doc-trace">doc-trace</a></td>
     <td>📚 detect outdated docs from code changes</td>
   </tr>
@@ -63,7 +63,7 @@
     <td>📖 dynamic markdown sections made easy for nodejs</td>
   </tr>
   <tr>
-    <td rowspan="3">CLI Tools</td>
+    <td rowspan="3">CLI tools</td>
     <td><a href="https://github.com/lucasvtiradentes/chrome-cmd">chrome-cmd</a></td>
     <td>🌐 interact your Chrome browser from the command line</td>
   </tr>
