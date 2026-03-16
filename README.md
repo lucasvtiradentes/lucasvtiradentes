@@ -5,6 +5,88 @@
 
 <br />
 
+<!-- REPOS:START -->
+<table>
+  <tr>
+    <th>Group</th>
+    <th>Repo</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan="5">AI-Assisted Development</td>
+    <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
+    <td>⚡ all-in-one command center for ai-assisted development</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/branch-context">branch-context</a></td>
+    <td>🌿 per-branch context for ai coding agents auto-synced via git hooks </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/tscanner">tscanner</a></td>
+    <td>🔍 code quality scanner for the AI-generated code era</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/tscanner-action">tscanner-action</a></td>
+    <td>🔍 Run Tscanner quality checks in your GitHub workflows</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/claude-code-pretty">claude-code-pretty</a></td>
+    <td>🎨 pretty formatter for claude code json stream or saved .jsonl files</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Documentation Tools</td>
+    <td><a href="https://github.com/lucasvtiradentes/doc-trace">doc-trace</a></td>
+    <td>📚 Detect outdated docs from code changes</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/doc-update">doc-update</a></td>
+    <td>🔄 keep docs in sync with code changes using ai-powered workflows  </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/doc-align">doc-align</a></td>
+    <td>📏 Auto-fix alignment in markdown docs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/markdown-helper">markdown-helper</a></td>
+    <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically</td>
+  </tr>
+  <tr>
+    <td rowspan="4">CLI Tools and Automation</td>
+    <td><a href="https://github.com/lucasvtiradentes/chrome-cmd">chrome-cmd</a></td>
+    <td>🌐 interact your Chrome browser from the command line</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/sheet-cmd">sheet-cmd</a></td>
+    <td>📈  manage Google Sheets from the command line</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a></td>
+    <td>🔄  sync github commits to google calendar and track your coding activity</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/repositories-manager">repositories-manager</a></td>
+    <td>🔄 sync and manage your git repositories effortlessly</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Browser Extensions</td>
+    <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
+    <td>🔧 chrome extension to customize any website with custom js scripts</td>
+  </tr>
+  <tr>
+    <td rowspan="1">API Wrappers and Libraries</td>
+    <td><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt">ticktick-api-lvt</a></td>
+    <td>📅 a ticktick api wrapper package to be used in node based projects</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Utilities</td>
+    <td><a href="https://github.com/lucasvtiradentes/esports-notifier">esports-notifier</a></td>
+    <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date</td>
+  </tr>
+</table>
+<!-- REPOS:END -->
+
+<br />
+
 <details>
   <summary align="center"><b>⭐ repositories overview</b></summary>
   <br>
