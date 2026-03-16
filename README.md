@@ -24,13 +24,13 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="5">AI-Assisted Development</td>
-    <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
-    <td>⚡ all-in-one command center for ai-assisted development</td>
-  </tr>
-  <tr>
+    <td rowspan="4">AI-Assisted Development</td>
     <td><a href="https://github.com/lucasvtiradentes/branch-context">branch-context</a></td>
     <td>🌿 per-branch context for ai coding agents auto-synced via git hooks </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
+    <td>⚡ all-in-one command center for ai-assisted development</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/tscanner">tscanner</a></td>
@@ -39,10 +39,6 @@
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/tscanner-action">tscanner-action</a></td>
     <td>🔍 Run Tscanner quality checks in your GitHub workflows</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/lucasvtiradentes/claude-code-pretty">claude-code-pretty</a></td>
-    <td>🎨 pretty formatter for claude code json stream or saved .jsonl files</td>
   </tr>
   <tr>
     <td rowspan="4">Documentation Tools</td>
@@ -62,7 +58,7 @@
     <td>📖 easily handle markdown files in nodejs based projects, including add, update and delete fields dynamically</td>
   </tr>
   <tr>
-    <td rowspan="4">CLI Tools and Automation</td>
+    <td rowspan="4">CLI Tools</td>
     <td><a href="https://github.com/lucasvtiradentes/chrome-cmd">chrome-cmd</a></td>
     <td>🌐 interact your Chrome browser from the command line</td>
   </tr>
@@ -71,27 +67,33 @@
     <td>📈  manage Google Sheets from the command line</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a></td>
-    <td>🔄  sync github commits to google calendar and track your coding activity</td>
+    <td><a href="https://github.com/lucasvtiradentes/claude-code-pretty">claude-code-pretty</a></td>
+    <td>🎨 pretty formatter for claude code json stream or saved .jsonl files</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/repositories-manager">repositories-manager</a></td>
     <td>🔄 sync and manage your git repositories effortlessly</td>
   </tr>
   <tr>
-    <td rowspan="1">Browser Extensions</td>
+    <td rowspan="5">General</td>
+    <td><a href="https://github.com/lucasvtiradentes/gcal-sync">gcal-sync</a></td>
+    <td>🔄  sync github commits to google calendar and track your coding activity</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/esports-notifier">esports-notifier</a></td>
+    <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
     <td>🔧 chrome extension to customize any website with custom js scripts</td>
   </tr>
   <tr>
-    <td rowspan="1">API Wrappers and Libraries</td>
     <td><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt">ticktick-api-lvt</a></td>
     <td>📅 a ticktick api wrapper package to be used in node based projects</td>
   </tr>
   <tr>
-    <td rowspan="1">Utilities</td>
-    <td><a href="https://github.com/lucasvtiradentes/esports-notifier">esports-notifier</a></td>
-    <td>🔔 Receive a daily email informing whenever at least one of your favorite esports teams has a match on the current date</td>
+    <td><a href="https://github.com/lucasvtiradentes/lucasvtiradentes">lucasvtiradentes</a></td>
+    <td>🚀 github description repository</td>
   </tr>
 </table>
 <!-- REPOS:END -->
