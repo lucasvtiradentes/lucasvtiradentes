@@ -17,6 +17,8 @@
 <br />
 
 <!-- REPOS:START -->
+<div align="center">
+
 <table>
   <tr>
     <th>Category</th>
@@ -39,7 +41,7 @@
   <tr>
     <td rowspan="2">Developer tools</td>
     <td><a href="https://github.com/lucasvtiradentes/dev-panel">dev-panel</a></td>
-    <td>⚡ all-in-one command center for ai-assisted development</td>
+    <td>⚡ all-in-one command center for faster development</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/repositories-manager">repositories-manager</a></td>
@@ -98,4 +100,6 @@
     <td>🚀 github description repository</td>
   </tr>
 </table>
+
+</div>
 <!-- REPOS:END -->

@@ -2,7 +2,9 @@
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPOS_JSON="$SCRIPT_DIR/../repos.json"
+PRIVATE_REPOS_JSON="$SCRIPT_DIR/../private-repos.json"
 README="$SCRIPT_DIR/../README.md"
+PRIVATE_REPOS_MD="$SCRIPT_DIR/../PRIVATE-REPOS.md"
 
 REPO_GROUPS=(
   "Agentic engineering:branch-context,tscanner,tscanner-action"
@@ -28,6 +30,8 @@ generate_table() {
     total_repos=$((total_repos + count))
   done
 
+  echo "<div align=\"center\">"
+  echo ""
   echo "<table>"
   echo "  <tr>"
   echo "    <th>Category</th>"
@@ -58,6 +62,38 @@ generate_table() {
   done
 
   echo "</table>"
+  echo ""
+  echo "</div>"
+}
+
+generate_private_repos_md() {
+  if [ ! -f "$PRIVATE_REPOS_JSON" ]; then
+    echo "⚠️  Warning: $PRIVATE_REPOS_JSON not found, skipping PRIVATE-REPOS.md generation"
+    return 1
+  fi
+
+  local total
+  total=$(jq 'length' "$PRIVATE_REPOS_JSON")
+
+  {
+    echo "<!-- PRIVATE-REPOS:START -->"
+    echo "<div align=\"center\">"
+    echo ""
+    echo "<table>"
+    echo "  <tr>"
+    echo "    <th>Repo ($total)</th>"
+    echo "    <th>Description</th>"
+    echo "  </tr>"
+
+    jq -r '.[] | "  <tr>\n    <td>\(.name)</td>\n    <td>\(.description)</td>\n  </tr>"' "$PRIVATE_REPOS_JSON"
+
+    echo "</table>"
+    echo ""
+    echo "</div>"
+    echo "<!-- PRIVATE-REPOS:END -->"
+  } > "$PRIVATE_REPOS_MD"
+
+  echo "PRIVATE-REPOS.md updated!"
 }
 
 START_MARKER="<!-- REPOS:START -->"
@@ -79,3 +115,5 @@ mv "$README.tmp" "$README"
 rm "$TABLE_FILE"
 
 echo "README.md updated!"
+
+generate_private_repos_md
