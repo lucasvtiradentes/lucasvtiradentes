@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 USERNAME="lucasvtiradentes"
@@ -8,12 +9,20 @@ PRIVATE_FILE="$SCRIPT_DIR/../private-repos.json"
 fetch_repos() {
   local visibility="$1"
   local output_file="$2"
+  local tmp_file
 
-  gh repo list "$USERNAME" \
-    --visibility "$visibility" \
-    --limit 1000 \
-    --json name,description,repositoryTopics,createdAt,updatedAt,pushedAt,primaryLanguage \
-    | jq --indent 2 '[.[] | {name: .name, description: .description, keywords: [.repositoryTopics[]?.name // empty], createdAt: .createdAt, updatedAt: .updatedAt, pushedAt: .pushedAt, mainLanguage: .primaryLanguage.name}]' > "$output_file"
+  tmp_file="$(mktemp)"
+
+  if [ "$visibility" = "public" ]; then
+    gh api --paginate "/users/$USERNAME/repos?type=owner&sort=pushed&direction=desc&per_page=100" \
+      | jq --slurp --indent 2 '[.[][] | {name: .name, description: .description, keywords: (.topics // []), createdAt: .created_at, updatedAt: .updated_at, pushedAt: .pushed_at, mainLanguage: .language}]' > "$tmp_file"
+  else
+    gh api --paginate "/user/repos?visibility=private&affiliation=owner&sort=pushed&direction=desc&per_page=100" \
+      | jq --slurp --arg owner "$USERNAME" --indent 2 '[.[][] | select(.owner.login == $owner) | {name: .name, description: .description, keywords: (.topics // []), createdAt: .created_at, updatedAt: .updated_at, pushedAt: .pushed_at, mainLanguage: .language}]' > "$tmp_file"
+  fi
+
+  jq empty "$tmp_file"
+  mv "$tmp_file" "$output_file"
 
   echo "Saved $(jq length "$output_file") repos to $output_file"
 }

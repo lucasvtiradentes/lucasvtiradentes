@@ -7,10 +7,9 @@ README="$SCRIPT_DIR/../README.md"
 PRIVATE_REPOS_MD="$SCRIPT_DIR/../PRIVATE-REPOS.md"
 
 REPO_GROUPS=(
-  "Agentic engineering:branch-context,tscanner,tscanner-action"
-  "Developer tools:dev-panel,repositories-manager"
+  "Developer tools:mention-at-codex,dev-panel,repositories-manager,branch-context,tscanner,tscanner-action"
   "Documentation tools:doc-trace,doc-update,doc-align,markdown-helper"
-  "CLI tools:chrome-cmd,sheet-cmd,claude-code-pretty"
+  "CLI tools:sheet-cmd"
   "Automations:gcal-sync,esports-notifier"
   "General:site-tweaker,ticktick-api-lvt,lucasvtiradentes"
 )
@@ -19,14 +18,68 @@ get_desc() {
   jq -r --arg name "$1" '.[] | select(.name == $name) | .description' "$REPOS_JSON"
 }
 
+repo_exists() {
+  jq -e --arg name "$1" '.[] | select(.name == $name)' "$REPOS_JSON" > /dev/null
+}
+
+repo_is_grouped() {
+  local repo="$1"
+  local group_def repos_str grouped_repo
+
+  for group_def in "${REPO_GROUPS[@]}"; do
+    repos_str=$(echo "$group_def" | cut -d: -f2)
+    IFS=',' read -ra repos_array <<< "$repos_str"
+    for grouped_repo in "${repos_array[@]}"; do
+      if [ "$grouped_repo" = "$repo" ]; then
+        return 0
+      fi
+    done
+  done
+
+  return 1
+}
+
+validate_grouped_repos() {
+  local missing=0
+  local group_def repo repos_str
+
+  while IFS= read -r repo; do
+    if ! repo_is_grouped "$repo"; then
+      echo "Missing repo in REPO_GROUPS: $repo" >&2
+      missing=1
+    fi
+  done < <(jq -r '.[].name' "$REPOS_JSON")
+
+  for group_def in "${REPO_GROUPS[@]}"; do
+    repos_str=$(echo "$group_def" | cut -d: -f2)
+    IFS=',' read -ra repos_array <<< "$repos_str"
+    for repo in "${repos_array[@]}"; do
+      if ! repo_exists "$repo"; then
+        echo "Missing repo in repos.json: $repo" >&2
+        missing=1
+      fi
+    done
+  done
+
+  if [ "$missing" -ne 0 ]; then
+    exit 1
+  fi
+}
+
 generate_table() {
   local total_repos=0
-  local i group_def group_name repos_str
+  local i group_def group_name repos_str count repo
 
   for i in "${!REPO_GROUPS[@]}"; do
     group_def="${REPO_GROUPS[$i]}"
     repos_str=$(echo "$group_def" | cut -d: -f2)
-    count=$(echo "$repos_str" | tr ',' '\n' | wc -l | tr -d ' ')
+    count=0
+    IFS=',' read -ra repos_array <<< "$repos_str"
+    for repo in "${repos_array[@]}"; do
+      if repo_exists "$repo"; then
+        count=$((count + 1))
+      fi
+    done
     total_repos=$((total_repos + count))
   done
 
@@ -44,11 +97,25 @@ generate_table() {
     group_name=$(echo "$group_def" | cut -d: -f1)
     repos_str=$(echo "$group_def" | cut -d: -f2)
 
-    repos_list=$(echo "$repos_str" | tr ',' '\n')
-    count=$(echo "$repos_list" | wc -l | tr -d ' ')
+    count=0
+    IFS=',' read -ra repos_array <<< "$repos_str"
+    for repo in "${repos_array[@]}"; do
+      if repo_exists "$repo"; then
+        count=$((count + 1))
+      fi
+    done
+
+    if [ "$count" -eq 0 ]; then
+      continue
+    fi
+
     first=true
 
-    echo "$repos_list" | while read -r repo; do
+    for repo in "${repos_array[@]}"; do
+      if ! repo_exists "$repo"; then
+        continue
+      fi
+
       desc=$(get_desc "$repo")
       echo "  <tr>"
       if $first; then
@@ -103,6 +170,8 @@ if ! grep -q "$START_MARKER" "$README" || ! grep -q "$END_MARKER" "$README"; the
   echo "Markers not found in README.md"
   exit 1
 fi
+
+validate_grouped_repos
 
 TABLE_FILE=$(mktemp -t update_readme)
 generate_table > "$TABLE_FILE"
