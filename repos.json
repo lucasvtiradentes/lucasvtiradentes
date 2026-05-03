@@ -1,5 +1,29 @@
 [
   {
+    "name": "branch-context",
+    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
+    "keywords": [
+      "agentic-engineering"
+    ],
+    "createdAt": "2026-05-01T06:04:13Z",
+    "updatedAt": "2026-05-03T14:32:36Z",
+    "pushedAt": "2026-05-03T14:33:59Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "lucasvtiradentes",
+    "description": "🚀 github description repository",
+    "keywords": [
+      "github",
+      "readme",
+      "readme-profile"
+    ],
+    "createdAt": "2020-07-13T17:15:20Z",
+    "updatedAt": "2026-05-03T06:10:57Z",
+    "pushedAt": "2026-05-03T06:10:54Z",
+    "mainLanguage": "Shell"
+  },
+  {
     "name": "mention-at-codex",
     "description": "🔗 vscode extension to send file mentions into a linked codex terminal",
     "keywords": [
@@ -9,17 +33,6 @@
     "createdAt": "2026-04-19T20:26:35Z",
     "updatedAt": "2026-05-03T01:37:16Z",
     "pushedAt": "2026-05-03T01:38:31Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "branch-context",
-    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
-    "keywords": [
-      "agentic-engineering"
-    ],
-    "createdAt": "2026-05-01T06:04:13Z",
-    "updatedAt": "2026-05-03T00:20:15Z",
-    "pushedAt": "2026-05-03T00:21:20Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -47,19 +60,6 @@
     "updatedAt": "2026-03-18T02:47:53Z",
     "pushedAt": "2026-03-18T02:47:50Z",
     "mainLanguage": null
-  },
-  {
-    "name": "lucasvtiradentes",
-    "description": "🚀 github description repository",
-    "keywords": [
-      "github",
-      "readme",
-      "readme-profile"
-    ],
-    "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-03-17T11:41:59Z",
-    "pushedAt": "2026-03-17T11:41:55Z",
-    "mainLanguage": "Shell"
   },
   {
     "name": "doc-trace",

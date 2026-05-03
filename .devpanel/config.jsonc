@@ -1,0 +1,15 @@
+{
+  "taskScanIgnorePaths": [],
+  "variables": [],
+  "replacements": [],
+  "tasks": [
+    {
+      "name": "fetch repos",
+      "command": "bash scripts/fetch-repos.sh"
+    },
+    {
+      "name": "update markdown repos",
+      "command": "bash scripts/update-markdown-repos.sh"
+    }
+  ]
+}
