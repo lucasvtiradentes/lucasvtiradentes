@@ -1,13 +1,16 @@
 [
   {
-    "name": "branch-context",
-    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
+    "name": "pretty-session",
+    "description": "✨ pretty-print claude, codex, and gemini session streams",
     "keywords": [
-      "agentic-engineering"
+      "ai-coding-agent",
+      "claude-code",
+      "codex",
+      "gemini"
     ],
-    "createdAt": "2026-05-01T06:04:13Z",
-    "updatedAt": "2026-05-03T14:32:36Z",
-    "pushedAt": "2026-05-03T14:33:59Z",
+    "createdAt": "2026-05-04T02:33:10Z",
+    "updatedAt": "2026-05-04T03:43:10Z",
+    "pushedAt": "2026-05-04T03:43:06Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -19,9 +22,20 @@
       "readme-profile"
     ],
     "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-05-03T06:10:57Z",
-    "pushedAt": "2026-05-03T06:10:54Z",
+    "updatedAt": "2026-05-03T15:53:09Z",
+    "pushedAt": "2026-05-03T15:53:05Z",
     "mainLanguage": "Shell"
+  },
+  {
+    "name": "branch-context",
+    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
+    "keywords": [
+      "agentic-engineering"
+    ],
+    "createdAt": "2026-05-01T06:04:13Z",
+    "updatedAt": "2026-05-03T14:32:36Z",
+    "pushedAt": "2026-05-03T14:33:59Z",
+    "mainLanguage": "TypeScript"
   },
   {
     "name": "mention-at-codex",

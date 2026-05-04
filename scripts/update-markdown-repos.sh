@@ -10,7 +10,7 @@ REPO_GROUPS=(
   "Developer experience:branch-context,dev-panel,mention-at-codex,tscanner,tscanner-action,repositories-manager"
   "Documentation:doc-trace,doc-update,doc-align"
   "Automations:gcal-sync,esports-notifier"
-  "Utilities:site-tweaker,sheet-cmd,ticktick-api-lvt,markdown-helper"
+  "Utilities:site-tweaker,sheet-cmd,ticktick-api-lvt,markdown-helper,pretty-session"
   "Profile:lucasvtiradentes"
 )
 

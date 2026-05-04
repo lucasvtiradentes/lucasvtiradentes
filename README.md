@@ -23,7 +23,7 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Repo (16)</th>
+    <th>Repo (17)</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -74,7 +74,7 @@
     <td>🔔 daily email alerts for your favorite esports teams matches</td>
   </tr>
   <tr>
-    <td rowspan="4">Utilities</td>
+    <td rowspan="5">Utilities</td>
     <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
     <td>🔧 chrome extension to customize any website with custom js scripts</td>
   </tr>
@@ -89,6 +89,10 @@
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/markdown-helper">markdown-helper</a></td>
     <td>📖 dynamic markdown sections made easy for nodejs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/pretty-session">pretty-session</a></td>
+    <td>✨ pretty-print claude, codex, and gemini session streams</td>
   </tr>
   <tr>
     <td rowspan="1">Profile</td>
