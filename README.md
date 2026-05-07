@@ -5,11 +5,6 @@
 <details align="center">
   <summary>Profile links</summary>
   <br>
-  <a target="_blank" href="https://www.linkedin.com/in/lucasvtiradentes/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="mailto:lucasvtiradentes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a target="_blank" href="https://wakatime.com/@lucasvtiradentes"><img src="https://img.shields.io/badge/WakaTime-black?logo=wakatime&logoColor=white" alt="WakaTime"></a>
-  <br>
-  <br>
   <a target="_blank" href="https://www.npmjs.com/~lucasvtiradentes"><img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white" alt="npm"></a>
   <a target="_blank" href="https://marketplace.visualstudio.com/publishers/lucasvtiradentes"><img src="https://img.shields.io/badge/VS%20Marketplace-blue?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4NyAxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOUw3LjA0IDkuMTM3IDIuOTIyIDYuMDFhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5bDEuMzIgMS4xOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTE3LTMuMTI4IDkuNDY1IDguNjM3YTEuNDk0IDEuNDk0IDAgMCAwIDEuNzA1LjI5bDQuOTQtMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnpNMTguMDAyIDE2LjkzNSAxMC44MjYgMTJsNy4xNzYtNC45MzV2OS44N3oiLz48L3N2Zz4=&logoColor=white" alt="VS Marketplace"></a>
   <a target="_blank" href="https://open-vsx.org/namespace/lucasvtiradentes"><img src="https://img.shields.io/badge/Open%20VSX-blueviolet?logo=eclipseide&logoColor=white" alt="Open VSX"></a>
@@ -27,7 +22,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="6">Developer experience</td>
+    <td rowspan="6">Developer tools</td>
     <td><a href="https://github.com/lucasvtiradentes/branch-context">branch-context</a></td>
     <td>🌿 per-branch context for ai coding agents auto-synced via git hooks</td>
   </tr>
@@ -74,17 +69,18 @@
     <td>🔔 daily email alerts for your favorite esports teams matches</td>
   </tr>
   <tr>
-    <td rowspan="5">Utilities</td>
-    <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
-    <td>🔧 chrome extension to customize any website with custom js scripts</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/lucasvtiradentes/sheet-cmd">sheet-cmd</a></td>
-    <td>📈  manage Google Sheets from the command line</td>
+    <td rowspan="2">Integrations</td>
+    <td><a href="https://github.com/lucasvtiradentes/gsheet">gsheet</a></td>
+    <td>📊  package to manage google sheets from cli, node apps and ai agents</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/ticktick-api-lvt">ticktick-api-lvt</a></td>
     <td>📅 a ticktick api wrapper package to be used in node based projects</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Utilities</td>
+    <td><a href="https://github.com/lucasvtiradentes/site-tweaker">site-tweaker</a></td>
+    <td>🔧 chrome extension to customize any website with custom js scripts</td>
   </tr>
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/markdown-helper">markdown-helper</a></td>

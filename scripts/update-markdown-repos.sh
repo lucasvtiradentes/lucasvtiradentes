@@ -7,10 +7,11 @@ README="$SCRIPT_DIR/../README.md"
 PRIVATE_REPOS_MD="$SCRIPT_DIR/../PRIVATE-REPOS.md"
 
 REPO_GROUPS=(
-  "Developer experience:branch-context,dev-panel,mention-at-codex,tscanner,tscanner-action,repositories-manager"
+  "Developer tools:branch-context,dev-panel,mention-at-codex,tscanner,tscanner-action,repositories-manager"
   "Documentation:doc-trace,doc-update,doc-align"
   "Automations:gcal-sync,esports-notifier"
-  "Utilities:site-tweaker,sheet-cmd,ticktick-api-lvt,markdown-helper,pretty-session"
+  "Integrations:gsheet,ticktick-api-lvt"
+  "Utilities:site-tweaker,markdown-helper,pretty-session"
   "Profile:lucasvtiradentes"
 )
 

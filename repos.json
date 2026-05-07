@@ -1,5 +1,17 @@
 [
   {
+    "name": "gsheet",
+    "description": "📊  package to manage google sheets from cli, node apps and ai agents",
+    "keywords": [
+      "cli",
+      "google-sheets"
+    ],
+    "createdAt": "2025-10-03T03:55:17Z",
+    "updatedAt": "2026-05-07T06:38:43Z",
+    "pushedAt": "2026-05-07T06:32:19Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
     "name": "pretty-session",
     "description": "✨ pretty-print claude, codex, and gemini session streams",
     "keywords": [
@@ -9,8 +21,8 @@
       "gemini"
     ],
     "createdAt": "2026-05-04T02:33:10Z",
-    "updatedAt": "2026-05-04T03:43:10Z",
-    "pushedAt": "2026-05-04T03:43:06Z",
+    "updatedAt": "2026-05-06T04:46:33Z",
+    "pushedAt": "2026-05-06T04:48:11Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -22,8 +34,8 @@
       "readme-profile"
     ],
     "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-05-03T15:53:09Z",
-    "pushedAt": "2026-05-03T15:53:05Z",
+    "updatedAt": "2026-05-04T03:46:55Z",
+    "pushedAt": "2026-05-04T03:46:51Z",
     "mainLanguage": "Shell"
   },
   {
@@ -167,21 +179,6 @@
     "updatedAt": "2026-03-16T02:17:37Z",
     "pushedAt": "2025-12-19T00:20:30Z",
     "mainLanguage": null
-  },
-  {
-    "name": "sheet-cmd",
-    "description": "📈  manage Google Sheets from the command line",
-    "keywords": [
-      "automation",
-      "claude-code",
-      "cli",
-      "google-sheets",
-      "typescript"
-    ],
-    "createdAt": "2025-10-03T03:55:17Z",
-    "updatedAt": "2025-10-31T04:08:41Z",
-    "pushedAt": "2025-10-31T01:03:37Z",
-    "mainLanguage": "TypeScript"
   },
   {
     "name": "repositories-manager",
