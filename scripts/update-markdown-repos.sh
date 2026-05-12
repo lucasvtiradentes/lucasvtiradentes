@@ -7,7 +7,7 @@ README="$SCRIPT_DIR/../README.md"
 PRIVATE_REPOS_MD="$SCRIPT_DIR/../PRIVATE-REPOS.md"
 
 REPO_GROUPS=(
-  "Ai coding agents:tscanner,tscanner-action,mention-at-codex,pretty-session"
+  "Ai coding agents:tscanner,tscanner-action,mention-at-codex,pretty-session,setup-ai-provider"
   "Developer tools:branch-context,dev-panel,repositories-manager"
   "Documentation:doc-trace,doc-update,doc-align"
   "Automations:gcal-sync,esports-notifier"

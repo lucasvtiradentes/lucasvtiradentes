@@ -1,31 +1,5 @@
 [
   {
-    "name": "gsheet",
-    "description": "📊  package to manage google sheets from cli, node apps and ai agents",
-    "keywords": [
-      "cli",
-      "google-sheets"
-    ],
-    "createdAt": "2025-10-03T03:55:17Z",
-    "updatedAt": "2026-05-07T06:38:43Z",
-    "pushedAt": "2026-05-07T06:32:19Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "pretty-session",
-    "description": "✨ pretty-print claude, codex, and gemini session streams",
-    "keywords": [
-      "ai-coding-agent",
-      "claude-code",
-      "codex",
-      "gemini"
-    ],
-    "createdAt": "2026-05-04T02:33:10Z",
-    "updatedAt": "2026-05-06T04:46:33Z",
-    "pushedAt": "2026-05-06T04:48:11Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
     "name": "lucasvtiradentes",
     "description": "🚀 github description repository",
     "keywords": [
@@ -34,9 +8,57 @@
       "readme-profile"
     ],
     "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-05-04T03:46:55Z",
-    "pushedAt": "2026-05-04T03:46:51Z",
+    "updatedAt": "2026-05-12T04:22:09Z",
+    "pushedAt": "2026-05-12T04:22:06Z",
     "mainLanguage": "Shell"
+  },
+  {
+    "name": "setup-ai-provider",
+    "description": "🤖 setup ai coding agents clis for github actions workflows",
+    "keywords": [
+      "ai-coding-agent",
+      "ci-workflow"
+    ],
+    "createdAt": "2026-05-12T02:53:37Z",
+    "updatedAt": "2026-05-12T04:23:02Z",
+    "pushedAt": "2026-05-12T04:17:58Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "pretty-session",
+    "description": "✨ pretty-print claude, codex, and gemini session streams",
+    "keywords": [
+      "claude-code",
+      "codex",
+      "gemini"
+    ],
+    "createdAt": "2026-05-04T02:33:10Z",
+    "updatedAt": "2026-05-12T03:28:12Z",
+    "pushedAt": "2026-05-12T03:28:09Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "tscanner",
+    "description": "🔍 code quality scanner for the AI-generated code era",
+    "keywords": [
+      "ai",
+      "ai-assisted-development",
+      "ai-coding",
+      "biomejs",
+      "claude-code",
+      "cli",
+      "code-quality",
+      "code-scanner",
+      "codex",
+      "cursor",
+      "eslint",
+      "linter",
+      "rust"
+    ],
+    "createdAt": "2025-11-12T02:39:05Z",
+    "updatedAt": "2026-05-02T05:16:37Z",
+    "pushedAt": "2026-05-12T03:27:46Z",
+    "mainLanguage": "Rust"
   },
   {
     "name": "branch-context",
@@ -45,8 +67,20 @@
       "agentic-engineering"
     ],
     "createdAt": "2026-05-01T06:04:13Z",
-    "updatedAt": "2026-05-03T14:32:36Z",
-    "pushedAt": "2026-05-03T14:33:59Z",
+    "updatedAt": "2026-05-10T14:47:52Z",
+    "pushedAt": "2026-05-10T14:49:14Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "gsheet",
+    "description": "📊  package to manage google sheets from cli, node apps and ai agents",
+    "keywords": [
+      "cli",
+      "google-sheets"
+    ],
+    "createdAt": "2025-10-03T03:55:17Z",
+    "updatedAt": "2026-05-08T05:49:55Z",
+    "pushedAt": "2026-05-08T05:51:42Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -143,29 +177,6 @@
     "updatedAt": "2026-03-16T02:37:48Z",
     "pushedAt": "2026-02-09T02:45:02Z",
     "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "tscanner",
-    "description": "🔍 code quality scanner for the AI-generated code era",
-    "keywords": [
-      "ai",
-      "ai-assisted-development",
-      "ai-coding",
-      "biomejs",
-      "claude-code",
-      "cli",
-      "code-quality",
-      "code-scanner",
-      "codex",
-      "cursor",
-      "eslint",
-      "linter",
-      "rust"
-    ],
-    "createdAt": "2025-11-12T02:39:05Z",
-    "updatedAt": "2026-05-02T05:16:37Z",
-    "pushedAt": "2026-02-08T21:50:05Z",
-    "mainLanguage": "Rust"
   },
   {
     "name": "tscanner-action",

@@ -18,11 +18,11 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Repo (17)</th>
+    <th>Repo (18)</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="4">Ai coding agents</td>
+    <td rowspan="5">Ai coding agents</td>
     <td><a href="https://github.com/lucasvtiradentes/tscanner">tscanner</a></td>
     <td>🔍 code quality scanner for the AI-generated code era</td>
   </tr>
@@ -37,6 +37,10 @@
   <tr>
     <td><a href="https://github.com/lucasvtiradentes/pretty-session">pretty-session</a></td>
     <td>✨ pretty-print claude, codex, and gemini session streams</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucasvtiradentes/setup-ai-provider">setup-ai-provider</a></td>
+    <td>🤖 setup ai coding agents clis for github actions workflows</td>
   </tr>
   <tr>
     <td rowspan="3">Developer tools</td>
