@@ -16,6 +16,11 @@ REPO_GROUPS=(
   "Profile:lucasvtiradentes"
 )
 
+FEATURED_GROUPS=(
+  "Ai coding agents"
+  "Developer tools"
+)
+
 get_desc() {
   jq -r --arg name "$1" '.[] | select(.name == $name) | .description' "$REPOS_JSON"
 }
@@ -36,6 +41,19 @@ repo_is_grouped() {
         return 0
       fi
     done
+  done
+
+  return 1
+}
+
+group_is_featured() {
+  local group="$1"
+  local featured_group
+
+  for featured_group in "${FEATURED_GROUPS[@]}"; do
+    if [ "$featured_group" = "$group" ]; then
+      return 0
+    fi
   done
 
   return 1
@@ -68,12 +86,19 @@ validate_grouped_repos() {
   fi
 }
 
-generate_table() {
+generate_repos_table() {
+  local include_featured="$1"
   local total_repos=0
   local i group_def group_name repos_str count repo
 
   for i in "${!REPO_GROUPS[@]}"; do
     group_def="${REPO_GROUPS[$i]}"
+    group_name=$(echo "$group_def" | cut -d: -f1)
+
+    if { [ "$include_featured" = "true" ] && ! group_is_featured "$group_name"; } || { [ "$include_featured" = "false" ] && group_is_featured "$group_name"; }; then
+      continue
+    fi
+
     repos_str=$(echo "$group_def" | cut -d: -f2)
     count=0
     IFS=',' read -ra repos_array <<< "$repos_str"
@@ -85,18 +110,21 @@ generate_table() {
     total_repos=$((total_repos + count))
   done
 
-  echo "<div align=\"center\">"
-  echo ""
   echo "<table>"
   echo "  <tr>"
   echo "    <th>Category</th>"
-  echo "    <th>Repo ($total_repos)</th>"
+  echo "    <th>Repository</th>"
   echo "    <th>Description</th>"
   echo "  </tr>"
 
   for i in "${!REPO_GROUPS[@]}"; do
     group_def="${REPO_GROUPS[$i]}"
     group_name=$(echo "$group_def" | cut -d: -f1)
+
+    if { [ "$include_featured" = "true" ] && ! group_is_featured "$group_name"; } || { [ "$include_featured" = "false" ] && group_is_featured "$group_name"; }; then
+      continue
+    fi
+
     repos_str=$(echo "$group_def" | cut -d: -f2)
 
     count=0
@@ -131,6 +159,37 @@ generate_table() {
   done
 
   echo "</table>"
+}
+
+generate_table() {
+  local other_repos=0
+  local group_def group_name repos_str repo
+
+  for group_def in "${REPO_GROUPS[@]}"; do
+    group_name=$(echo "$group_def" | cut -d: -f1)
+    if group_is_featured "$group_name"; then
+      continue
+    fi
+
+    repos_str=$(echo "$group_def" | cut -d: -f2)
+    IFS=',' read -ra repos_array <<< "$repos_str"
+    for repo in "${repos_array[@]}"; do
+      if repo_exists "$repo"; then
+        other_repos=$((other_repos + 1))
+      fi
+    done
+  done
+
+  echo "<div align=\"center\">"
+  echo ""
+  echo "<details>"
+  echo "  <summary>Other repositories ($other_repos)</summary>"
+  echo ""
+  generate_repos_table false
+  echo ""
+  echo "</details>"
+  echo ""
+  generate_repos_table true
   echo ""
   echo "</div>"
 }
