@@ -1,16 +1,32 @@
 [
   {
-    "name": "lucasvtiradentes",
-    "description": "🚀 github description repository",
+    "name": "dev-panel",
+    "description": "⚡ all-in-one command center for faster development",
+    "keywords": [
+      "development-environment",
+      "local-environment",
+      "vscode-extension"
+    ],
+    "createdAt": "2025-12-18T03:50:20Z",
+    "updatedAt": "2026-06-18T09:56:28Z",
+    "pushedAt": "2026-06-28T19:01:08Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "gcal-sync",
+    "description": "🔄  sync your github commits to google calendar",
     "keywords": [
       "github",
-      "readme",
-      "readme-profile"
+      "google-apps-script",
+      "google-calendar",
+      "nodejs",
+      "npm-package",
+      "typescript"
     ],
-    "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-05-12T04:22:09Z",
-    "pushedAt": "2026-05-12T04:22:06Z",
-    "mainLanguage": "Shell"
+    "createdAt": "2023-02-07T10:13:42Z",
+    "updatedAt": "2026-06-25T12:39:29Z",
+    "pushedAt": "2026-06-28T19:01:00Z",
+    "mainLanguage": "TypeScript"
   },
   {
     "name": "setup-ai-provider",
@@ -20,21 +36,33 @@
       "ci-workflow"
     ],
     "createdAt": "2026-05-12T02:53:37Z",
-    "updatedAt": "2026-05-12T04:23:02Z",
-    "pushedAt": "2026-05-12T04:17:58Z",
+    "updatedAt": "2026-07-04T12:48:22Z",
+    "pushedAt": "2026-06-28T18:59:23Z",
     "mainLanguage": "TypeScript"
   },
   {
     "name": "pretty-session",
-    "description": "✨ pretty-print claude, codex, and gemini session streams",
+    "description": "✨ pretty-print claude, codex, gemini and pi session streams",
     "keywords": [
       "claude-code",
       "codex",
-      "gemini"
+      "gemini",
+      "pi-coding-agent"
     ],
     "createdAt": "2026-05-04T02:33:10Z",
-    "updatedAt": "2026-05-12T03:28:12Z",
-    "pushedAt": "2026-05-12T03:28:09Z",
+    "updatedAt": "2026-06-21T19:42:55Z",
+    "pushedAt": "2026-06-28T18:59:18Z",
+    "mainLanguage": "TypeScript"
+  },
+  {
+    "name": "branch-context",
+    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
+    "keywords": [
+      "agentic-engineering"
+    ],
+    "createdAt": "2026-05-01T06:04:13Z",
+    "updatedAt": "2026-06-21T00:45:53Z",
+    "pushedAt": "2026-06-28T18:56:28Z",
     "mainLanguage": "TypeScript"
   },
   {
@@ -56,127 +84,22 @@
       "rust"
     ],
     "createdAt": "2025-11-12T02:39:05Z",
-    "updatedAt": "2026-05-02T05:16:37Z",
-    "pushedAt": "2026-05-12T03:27:46Z",
+    "updatedAt": "2026-06-30T14:43:12Z",
+    "pushedAt": "2026-06-03T09:42:11Z",
     "mainLanguage": "Rust"
   },
   {
-    "name": "branch-context",
-    "description": "🌿 per-branch context for ai coding agents auto-synced via git hooks",
-    "keywords": [
-      "agentic-engineering"
-    ],
-    "createdAt": "2026-05-01T06:04:13Z",
-    "updatedAt": "2026-05-10T14:47:52Z",
-    "pushedAt": "2026-05-10T14:49:14Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "gsheet",
-    "description": "📊  package to manage google sheets from cli, node apps and ai agents",
-    "keywords": [
-      "cli",
-      "google-sheets"
-    ],
-    "createdAt": "2025-10-03T03:55:17Z",
-    "updatedAt": "2026-05-08T05:49:55Z",
-    "pushedAt": "2026-05-08T05:51:42Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "mention-at-codex",
-    "description": "🔗 vscode extension to send file mentions into a linked codex terminal",
-    "keywords": [
-      "codex",
-      "vscode-extension"
-    ],
-    "createdAt": "2026-04-19T20:26:35Z",
-    "updatedAt": "2026-05-03T01:37:16Z",
-    "pushedAt": "2026-05-03T01:38:31Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "dev-panel",
-    "description": "⚡ all-in-one command center for faster development",
-    "keywords": [
-      "development-environment",
-      "local-environment",
-      "vscode-extension"
-    ],
-    "createdAt": "2025-12-18T03:50:20Z",
-    "updatedAt": "2026-04-19T12:51:16Z",
-    "pushedAt": "2026-04-20T04:15:53Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "doc-update",
-    "description": "🔄 keep docs in sync with code changes using ai-powered workflows  ",
-    "keywords": [
-      "claude-code",
-      "docs",
-      "github-action"
-    ],
-    "createdAt": "2026-02-18T00:01:24Z",
-    "updatedAt": "2026-03-18T02:47:53Z",
-    "pushedAt": "2026-03-18T02:47:50Z",
-    "mainLanguage": null
-  },
-  {
-    "name": "doc-trace",
-    "description": "📚 detect outdated docs from code changes",
-    "keywords": [
-      "agentic-engineering",
-      "claude-code",
-      "codex",
-      "docs",
-      "gemini"
-    ],
-    "createdAt": "2026-02-17T01:38:16Z",
-    "updatedAt": "2026-03-16T02:17:52Z",
-    "pushedAt": "2026-03-05T00:35:30Z",
-    "mainLanguage": "Python"
-  },
-  {
-    "name": "doc-align",
-    "description": "📏 auto-fix alignment in markdown docs",
-    "keywords": [
-      "agentic-engineering",
-      "docs",
-      "markdown",
-      "python"
-    ],
-    "createdAt": "2026-02-26T01:29:14Z",
-    "updatedAt": "2026-03-16T02:17:47Z",
-    "pushedAt": "2026-02-26T01:45:49Z",
-    "mainLanguage": "Python"
-  },
-  {
-    "name": "site-tweaker",
-    "description": "🔧 chrome extension to customize any website with custom js scripts",
-    "keywords": [
-      "chrome-extension",
-      "customization"
-    ],
-    "createdAt": "2026-01-11T11:27:44Z",
-    "updatedAt": "2026-02-22T18:27:27Z",
-    "pushedAt": "2026-02-22T18:27:23Z",
-    "mainLanguage": "Svelte"
-  },
-  {
-    "name": "gcal-sync",
-    "description": "🔄  sync your github commits to google calendar",
+    "name": "lucasvtiradentes",
+    "description": "🚀 github description repository",
     "keywords": [
       "github",
-      "google-apps-script",
-      "google-calendar",
-      "nodejs",
-      "npm-package",
-      "typescript"
+      "readme",
+      "readme-profile"
     ],
-    "createdAt": "2023-02-07T10:13:42Z",
-    "updatedAt": "2026-03-16T02:37:48Z",
-    "pushedAt": "2026-02-09T02:45:02Z",
-    "mainLanguage": "TypeScript"
+    "createdAt": "2020-07-13T17:15:20Z",
+    "updatedAt": "2026-05-12T11:49:23Z",
+    "pushedAt": "2026-05-12T11:49:18Z",
+    "mainLanguage": "Shell"
   },
   {
     "name": "tscanner-action",
@@ -190,65 +113,5 @@
     "updatedAt": "2026-03-16T02:17:37Z",
     "pushedAt": "2025-12-19T00:20:30Z",
     "mainLanguage": null
-  },
-  {
-    "name": "repositories-manager",
-    "description": "🔄 sync and manage your git repositories effortlessly",
-    "keywords": [
-      "git",
-      "linux",
-      "nodejs",
-      "repositories",
-      "ssh",
-      "synchronization"
-    ],
-    "createdAt": "2024-01-09T17:14:29Z",
-    "updatedAt": "2025-10-24T12:02:06Z",
-    "pushedAt": "2025-02-23T14:33:47Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "ticktick-api-lvt",
-    "description": "📅 a ticktick api wrapper package to be used in node based projects",
-    "keywords": [
-      "api-wrapper",
-      "nodejs",
-      "ticktick",
-      "ticktick-api",
-      "typescript"
-    ],
-    "createdAt": "2022-12-02T20:15:44Z",
-    "updatedAt": "2026-04-23T14:26:53Z",
-    "pushedAt": "2024-03-30T16:04:09Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "markdown-helper",
-    "description": "📖 dynamic markdown sections made easy for nodejs",
-    "keywords": [
-      "markdown",
-      "markdown-handler",
-      "nodejs",
-      "typescript"
-    ],
-    "createdAt": "2023-02-02T11:52:34Z",
-    "updatedAt": "2026-03-16T02:14:43Z",
-    "pushedAt": "2024-03-03T23:23:38Z",
-    "mainLanguage": "TypeScript"
-  },
-  {
-    "name": "esports-notifier",
-    "description": "🔔 daily email alerts for your favorite esports teams matches",
-    "keywords": [
-      "csgo",
-      "esports",
-      "google-apps-script",
-      "rainbow-six-siege",
-      "valorant"
-    ],
-    "createdAt": "2023-04-09T16:06:02Z",
-    "updatedAt": "2026-04-15T22:29:37Z",
-    "pushedAt": "2024-02-17T11:17:41Z",
-    "mainLanguage": "TypeScript"
   }
 ]

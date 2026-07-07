@@ -7,18 +7,17 @@ README="$SCRIPT_DIR/../README.md"
 PRIVATE_REPOS_MD="$SCRIPT_DIR/../PRIVATE-REPOS.md"
 
 REPO_GROUPS=(
-  "Ai coding agents:tscanner,tscanner-action,mention-at-codex,pretty-session,setup-ai-provider"
-  "Developer tools:branch-context,dev-panel,repositories-manager"
-  "Documentation:doc-trace,doc-update,doc-align"
-  "Automations:gcal-sync,esports-notifier"
-  "Integrations:gsheet,ticktick-api-lvt"
-  "Utilities:site-tweaker,markdown-helper"
+  "Ai coding agents:tscanner,tscanner-action,pretty-session,setup-ai-provider"
+  "Developer tools:branch-context,dev-panel"
+  "Automations:gcal-sync"
   "Profile:lucasvtiradentes"
 )
 
 FEATURED_GROUPS=(
   "Ai coding agents"
   "Developer tools"
+  "Automations"
+  "Profile"
 )
 
 get_desc() {
@@ -180,15 +179,15 @@ generate_table() {
     done
   done
 
-  echo "<div align=\"center\">"
-  echo ""
-  echo "<details>"
-  echo "  <summary>Other repositories ($other_repos)</summary>"
-  echo ""
-  generate_repos_table false
-  echo ""
-  echo "</details>"
-  echo ""
+  # echo "<div align=\"center\">"
+  # echo ""
+  # echo "<details>"
+  # echo "  <summary>Other repositories ($other_repos)</summary>"
+  # echo ""
+  # generate_repos_table false
+  # echo ""
+  # echo "</details>"
+  # echo ""
   generate_repos_table true
   echo ""
   echo "</div>"
