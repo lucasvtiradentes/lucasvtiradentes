@@ -1,5 +1,18 @@
 [
   {
+    "name": "lucasvtiradentes",
+    "description": "🚀 github description repository",
+    "keywords": [
+      "github",
+      "readme",
+      "readme-profile"
+    ],
+    "createdAt": "2020-07-13T17:15:20Z",
+    "updatedAt": "2026-07-07T10:50:07Z",
+    "pushedAt": "2026-07-07T10:50:03Z",
+    "mainLanguage": "Shell"
+  },
+  {
     "name": "dev-panel",
     "description": "⚡ all-in-one command center for faster development",
     "keywords": [
@@ -87,19 +100,6 @@
     "updatedAt": "2026-06-30T14:43:12Z",
     "pushedAt": "2026-06-03T09:42:11Z",
     "mainLanguage": "Rust"
-  },
-  {
-    "name": "lucasvtiradentes",
-    "description": "🚀 github description repository",
-    "keywords": [
-      "github",
-      "readme",
-      "readme-profile"
-    ],
-    "createdAt": "2020-07-13T17:15:20Z",
-    "updatedAt": "2026-05-12T11:49:23Z",
-    "pushedAt": "2026-05-12T11:49:18Z",
-    "mainLanguage": "Shell"
   },
   {
     "name": "tscanner-action",
